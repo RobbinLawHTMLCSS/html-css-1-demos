@@ -7,3 +7,9 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_struct
 
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors
 
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance
+
+https://css-tricks.com/specifics-on-css-specificity/
+
+
+
