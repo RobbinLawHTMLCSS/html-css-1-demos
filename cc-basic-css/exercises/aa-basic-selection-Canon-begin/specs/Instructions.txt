@@ -1,0 +1,34 @@
+Start by creating a styles.css document in the css folder. In this file, create a rule that targets the body element and sets the background-color property to red (#ff0000).
+
+In your index.html document link the external style sheet.
+
+Open your index page in your browser; your page should appear red if done correctly.
+
+Now create element selectors to target page elements and change the properties and values of the elements. Remember the purpose is for you to target and element using a selector not to style the content, though that is the result of changing the CSS properties.
+
+Update the body element background-color to #F3FFFD
+
+Select the h1 element and change the font-size property to 56px
+
+Select the h2 elements and change the following properties:
+ color to #3D403F
+ text-decoration to underline
+ padding-bottom to 0
+ margin-bottom to 0
+
+Select the three section elements and change the following properties:
+ width to 650px
+ border:1px solid black (this is the rule it has three values: border width, line style, and color)
+ margin-bottom to 20px
+ padding to 20px
+ background-color to #F3FFF0
+
+Select the paragraph elements change the following properties:
+ font-family to Verdana
+ font-size to 12px
+ color to #3D403C
+ padding to 8px
+ margin to 0
+
+
+
