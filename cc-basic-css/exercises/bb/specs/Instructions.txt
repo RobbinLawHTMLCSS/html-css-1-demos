@@ -1,0 +1,10 @@
+Start by creating a styles.css document in the css folder.
+
+In your index.html document link the external style sheet.
+
+Make the body element background-color to #111111
+
+Using the layout screen shot, set element and class properties to make the page similar.
+
+
+
