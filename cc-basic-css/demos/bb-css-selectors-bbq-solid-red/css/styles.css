@@ -1,3 +1,4 @@
+/*multiple element selector*/
 body,
 h1,
 h2,
@@ -8,6 +9,7 @@ p {
     padding: 0;
 }
 
+/*element selector*/
 body {
     font-family: verdana, sans-serif;
     color: #111111;
@@ -30,6 +32,7 @@ footer {
     background-color: #dedede;
 }
 
+/*class selector*/
 .menu-items {
     font-family: courier;
     list-style-type: none;

@@ -1,0 +1,54 @@
+footer {
+	background-color: #333333;
+}
+
+/*
+	We can specify multiple selectors separated by commmas for a single declaration
+*/
+footer,
+footer a {
+	color: white;
+}
+
+/*
+	Use descendant selectors to be more precise; the following rule applies to any ul
+	elements that are descendants of nav elements
+*/
+nav ul {
+	background-color: #dddddd;
+}
+
+/*
+	We can specify any number of descendants; the following rule applies to any li
+	elements that are descendants of ul elements, which are themselves descendants
+	of nav elements (whew!)
+*/
+nav ul li {
+	border-bottom: 1px solid #333333;
+}
+
+/*
+	And so on and so forth...
+*/
+nav ul li a {
+	color: #333333;
+	text-decoration: none;
+}
+
+/*
+	Pseudo classes allow us to target elements in specific states, positions, etc.  In this case,
+	we are targeting a elements in the hover state (i.e. when the mouse cursor is over them)
+*/
+nav ul li a:hover {
+	color: blue;
+	font-weight: bold;
+}
+
+/*
+	Class selectors can be used to be more specific when selecting elements and have a higher priority
+	than simple element selectors alone
+*/
+ul.navigation {
+	list-style: none;
+    padding-left: 0;
+}
