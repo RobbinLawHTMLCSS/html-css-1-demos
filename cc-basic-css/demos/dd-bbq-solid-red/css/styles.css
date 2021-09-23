@@ -35,6 +35,7 @@ footer {
 /*class selector*/
 .menu-items {
     font-family: courier;
+    /* this gets rid of the ul bullets */
     list-style-type: none;
     width: 600px;
     padding: 24px;
