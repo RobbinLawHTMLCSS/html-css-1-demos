@@ -1,12 +1,12 @@
 footer {
-	background-color: #333333;
+	background-color: grey;
 }
 
 /*
 	We can specify multiple selectors separated by commmas for a single declaration
 */
 footer,
-footer a {
+footer h2 {
 	color: white;
 }
 
@@ -15,7 +15,7 @@ footer a {
 	elements that are descendants of nav elements
 */
 nav ul {
-	background-color: #dddddd;
+	background-color: lightgrey;
 }
 
 /*
@@ -31,7 +31,7 @@ nav ul li {
 	And so on and so forth...
 */
 nav ul li a {
-	color: #333333;
+	color: red;
 	text-decoration: none;
 }
 
@@ -48,7 +48,8 @@ nav ul li a:hover {
 	Class selectors can be used to be more specific when selecting elements and have a higher priority
 	than simple element selectors alone
 */
-ul.navigation {
+ul.navigation a{
+	color: orange;
 	list-style: none;
     padding-left: 0;
 }

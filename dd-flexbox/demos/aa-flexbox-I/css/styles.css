@@ -1,0 +1,59 @@
+body {
+    background: white;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+    font-size: 100%;
+    line-height: 1.5
+}
+
+main {
+    background-color: lightgrey;
+    /* padding: 30px; */
+    display: flex;
+    /* If there isn't enough room in the flex container to hold all of the flex items, flex-wrap will start new rows. */
+    /* flex-wrap: wrap; */
+}
+
+main div {
+    height: 200px;
+    width: 465px;
+    margin: 10px, 0, 10px, 10px;
+}
+
+/*
+
+Box Model Maths
+
+We start off with 960px. There's 30px of padding on the main. 
+
+960 - padding-left - padding-right
+960 - 30 - 30
+900
+
+We also want a 30px margin between red and blue.
+
+900 - 30 = 870 remains.
+
+*/
+
+div.red-paint {
+    background-color: red;
+}
+
+div.blue-paint {
+    background-color: blue;
+}
+
+div.full-width {
+    background-color: black;
+    width: 940px;
+    height: 50px;
+    margin: 0, 10px, 10px, 10px;
+}
+
+
