@@ -15,29 +15,22 @@ h1 {
 h2 {
 	color: #3d403f;
 	text-decoration: underline;
-	padding-bottom: 0;
-	margin-bottom: 0;
 }
 
 section {
 	width: 650px;
-	border: 1px solid black;
-	/*
+	background-color: #f3fff0;
 	border-width: 1px;
 	border-style: solid;
 	border-color: black;
-	*/
-	margin-bottom: 20px;
-	padding: 20px;
-	background-color: #f3fff0;
+	/* border: 1px solid black; */
 }
 
 p {
 	font-family: Verdana;
 	font-size: 12px;
 	color: #3d403c;
-	padding: 8px;
-	margin: 0;
+
 }
 
 
