@@ -1,6 +1,6 @@
 /* Element Selectors */
 body {
-	background-color: #333;
+	background-color: black;
   }
 
   /* . is for classes */
@@ -15,9 +15,9 @@ body {
 
   /* Multiple Selectors */
   #welcome, #about {
-	border: 1px solid #ccc;
-	padding: 10px;
-	margin-bottom: 5px;
+  border-width: 5px;
+	border-style: solid;
+	border-color: yellow;
   }
 
   /* Nested Selectors */
