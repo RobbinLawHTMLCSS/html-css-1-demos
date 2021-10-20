@@ -15,14 +15,14 @@ body {
 
   /* Multiple Selectors */
   #welcome, #about {
-  border-width: 5px;
+  border-width: 10px;
 	border-style: solid;
-	border-color: yellow;
+	border-color: green;
   }
 
-  /* Nested Selectors */
+  /* Decendant Selectors */
   #welcome p {
-	font-size: 20px;
+	font-size: 30px;
   }
 
   #about {
