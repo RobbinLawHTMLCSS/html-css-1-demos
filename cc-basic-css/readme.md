@@ -1,6 +1,8 @@
 signin to your nait account via chrome before clicking on this link
 https://www.linkedin.com/learning/css-essential-training-3/styling-documents-consistently?u=2109516
 
+Brad Traversy's crash course in 1 hr and 30 minutes on CSS
+https://www.youtube.com/watch?v=yfoY53QXEnI
 
 https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works
 
