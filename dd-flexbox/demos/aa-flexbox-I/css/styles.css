@@ -1,6 +1,5 @@
 body {
     background: white;
-    font-family: Verdana, sans-serif;
     text-align: center;
 }
 
@@ -19,9 +18,7 @@ main {
 main div {
     height: 200px;
     border: 2px solid black;
-    margin-left: 10px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin: 10px 0px 10px 10px;
 }
 
 div.red-paint {
