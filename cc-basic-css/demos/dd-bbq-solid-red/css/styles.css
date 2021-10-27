@@ -1,3 +1,8 @@
+/* * {
+    margin-block-start: 0;
+    margin-block-end: 0;
+} */
+
 /*multiple element selector*/
 body,
 h1,
@@ -7,13 +12,14 @@ p {
     padding: 0;
 }
 
-/*element selector*/
 body {
     font-family: verdana, sans-serif;
+    /* by default background-color is white */
+    background-color: white;
     color: #111111;
 }
 
-h1 {
+header {
     padding: 48px;
     color: #696969;
     border-bottom: 1px solid #dedede;
@@ -30,7 +36,6 @@ footer {
     background-color: #dedede;
 }
 
-/*class selector*/
 .menu-items {
     font-family: courier;
     /* this gets rid of the ul bullets */
