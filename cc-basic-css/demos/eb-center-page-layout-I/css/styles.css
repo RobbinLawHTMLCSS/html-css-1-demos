@@ -38,6 +38,12 @@ main {
 	background-color: #dddddd;
 }
 
+/* Width Math 
+Total - margin - border - padding = leftover
+960 - (2 * 30) - (2 * 2) - 0
+960 - 60 - 4 = 896
+	896/1 = 896
+*/
 main section {
 	width: 896px;
 	border: 2px solid black;
