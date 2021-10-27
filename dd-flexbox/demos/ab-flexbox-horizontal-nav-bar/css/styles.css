@@ -1,0 +1,73 @@
+body {
+	background-color: white;
+	text-align: center;
+}
+
+.container {
+	margin: 0 auto;
+	width: 960px;
+	font-size: 100%;
+	line-height: 1.5;
+}
+
+/* Typography */
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2 {
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 24px;
+}
+
+h2 {
+	font-size: 18px;
+}
+
+/* Layout*/
+
+header {
+	margin-top: 15px;
+}
+
+header nav {
+	margin: 15px 0;
+}
+
+header nav ul {
+	display: flex;
+}
+
+/* Width Math 
+Total - margin - border - padding = leftover
+960 - (4 * 15) - (6 * 2) - 0
+960 - 60 - 12 = 888
+	888/3 = 296 */
+header nav ul li {
+	width: 296px;
+	margin-left: 15px;
+	border: 2px solid #333333;
+	text-align: center;
+}
+
+main {
+	display: flex;
+}
+
+/* Width Math 
+Total - margin - border - padding = leftover
+960 - (2 * 15) - (2 * 2) - (2 * 15)
+960 - 30 - 4 - 30 = 896
+	896/1 = 896 */
+main section {
+	width: 896px;
+	border: 2px solid #333333;
+	margin-left: 15px;
+	margin-top: 15px;
+	padding: 15px;
+}
