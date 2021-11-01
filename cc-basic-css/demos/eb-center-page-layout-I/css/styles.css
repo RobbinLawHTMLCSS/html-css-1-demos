@@ -3,8 +3,9 @@ body {
 }
 
 .container {
-	margin: 0 auto;
+	/* width: 960px; */
 	max-width: 960px;
+	margin: 0 auto;
 	font-size: 100%;
 	line-height: 1.5;
 }
@@ -17,25 +18,32 @@ h2 {
 	font-family: arial, sans-serif;
 	font-size: 20px;
 	font-weight: bold;
-	color: #747474;
+	color: grey;
 }
 
 /* Layout */
 nav {
+	background-color: lightgrey;
 	margin-top: 48px;
-	background-color: #dddddd;
 }
 
 header {
 	height: 450px;
+	background-color: lightgrey;
 	margin-top: 24px;
-	background-color: #dddddd;
 }
 
 main {
 	height: 800px;
+	background-color: lightgrey;
 	margin-top: 24px;
+}
+
+footer {
+	height: 150px;
 	background-color: #dddddd;
+	margin-top: 24px;
+	margin-bottom: 48px;
 }
 
 /* Width Math 
@@ -46,15 +54,8 @@ Total - margin - border - padding = leftover
 */
 main section {
 	width: 896px;
+	height: 200px;
 	border: 2px solid black;
 	background-color: white;
-	margin: 30px;
-	height: 200px;
-}
-
-footer {
-	margin-top: 24px;
-	background-color: #dddddd;
-	height: 150px;
-	margin-bottom: 48px;
+	margin-left: 30px;
 }
