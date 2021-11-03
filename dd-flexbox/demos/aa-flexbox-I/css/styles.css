@@ -38,22 +38,22 @@ Total - margin - border - padding = leftover
 960 - (4 * 10) - (6 * 2) - 0
 960 - 40 - 12 = 908
 	908/3 = 302.66 */
-main div {
+/* main div {
     width: 302.66px;
-}
+} */
 
 /* Width Math WITH padding and border on main (parent of div's)
 Total - parent.padding - parent.border - margin - border - padding = leftover
 960 - (2 * 20) - (2 * 5) -(4 * 10) - (6 * 2) - 0
 960 - 40 - 10 - 40 - 12 = 858
 	858/3 = 286 */
-/* main {
+main {
     padding: 20px;
     border: 5px solid green;
 }
 main div {
     width: 286px;
-} */
+}
 
 /* The following shows what happens if width of each div is too small */
 /* main div {
