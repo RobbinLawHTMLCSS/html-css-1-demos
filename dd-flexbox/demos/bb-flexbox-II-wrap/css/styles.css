@@ -34,6 +34,14 @@ div.yellow-paint {
     background-color: yellow;
 }
 
+div.orange-paint {
+    background-color: orange;
+}
+
+div.grey-paint {
+    background-color: grey;
+}
+
 /* Width Math for red and blue boxes on first row
 Total - margin - border - padding = leftover
 960 - (3 * 10) - (4 * 2) - 0
@@ -51,6 +59,12 @@ Total - margin - border - padding = leftover
 	936/1 = 936 */
 div.yellow-paint {
     width: 936px;
+    /* margin-bottom: 10px; */
+}
+
+div.orange-paint, 
+div.grey-paint {
+    width: 461px;
     margin-bottom: 10px;
 }
 
