@@ -9,7 +9,8 @@ body {
 	line-height: 1.5;
 	text-align: center;
 	/* Use web font Lato*/
-	font-family: 'Lato', sans-serif;
+	font-family: 'Lato';
+	/* font-family: Verdana, Geneva, Tahoma, sans-serif; */
 }
 
 /* Typography */
