@@ -1,19 +1,96 @@
-html {
-	background-color: white;
-}
- 
 .container {
-	margin: 0 auto;
 	width: 960px;
-	font-size: 100%;
+	margin: 0 auto;
 	line-height: 1.5;
+	font-size: 100%;
 }
 
-.hidden {
-	display: none;
+body {
+	font-family: 'Montserrat', sans-serif;
 }
 
-.page-header {
-	background: url(../img/header-background.png) repeat-x;
+header {
+	background-color: rgba(11,119,124,0.08);
+	background-image: url('../img/header-transparent-no-text.png');
+	padding: 100px 0 0 40px;
+	height: 300px;
 }
+
+h1 {
+	color: #0b777b;
+	font-family: 'Lato', sans-serif;
+	font-size: 72px;
+}
+
+header p {
+	color: #539fa2;
+	font-size: 36px;
+	font-weight: 600;
+	padding-left: 50px;
+}
+
+h2 {
+	color: #0b777b;
+	font-size: 48px;
+	font-weight: 600;
+}
+
+h3 {
+	color: #238386;
+	font-size: 36px;
+}
+
+p {
+	font-size: 16px;
+	color: #7f8c8c;
+}
+
+main,
+footer {
+	text-align: center;
+}
+
+/* The > selector here selects only images immediately inside of article. It will select the circular icon, and not the like button because the like button is one level deeper. */
+
+main article > img {
+	margin: 80px 0 20px 0;
+}
+
+main article > p {
+	margin: 25px 0 25px 90px;
+	width: 780px;
+}
+
+main article footer {
+	display: flex;
+	/* This property horizontally aligns flex items. It must be declared on a flex container. */
+	justify-content: center;
+	/* This is the exact same thing, but vertical. */
+	align-items: center;
+}
+
+main article footer p {
+	margin-right: 40px;
+	font-size: 14px;
+	color: #378184;
+}
+
+main article footer p span {
+	font-weight: bold;
+	color: #094244;
+}
+
+h3 {
+	margin: 120px 0 15px 0;
+}
+
+footer img {
+	margin-right: 15px;
+}
+
+footer img:last-of-type {
+	margin-right: 0;
+}
+
+
 
