@@ -1,0 +1,116 @@
+body {
+	background-color: white;
+	font-family: 'Raleway', sans-serif;
+	color: #f1f7f6;
+	font-size: 100%;
+	line-height: 1.5;
+}
+ 
+.container {
+	margin:0 auto;
+	width:960px;
+}
+
+.visuallyhidden {
+	position: absolute;
+	overflow: hidden;
+	clip: rect(0 0 0 0);
+	height: 1px; width: 1px;
+	margin: -1px; padding: 0; border: 0;
+}
+
+header {
+	background-color: #028568;
+}
+
+header .logo {
+	margin: 10px;
+}
+
+/* Step 1: target the anchor link directly to remove the default underline and color */
+nav a {
+	text-decoration: none;
+	color: #f1f7f6;
+}
+
+/* Step 2: add additional text styling and spacing to the li element */
+nav li {
+	font-size: 18px;
+	/* line height equals the height of the header element and it vertically centers the text */
+	line-height: 75px;
+	margin-right: 30px;
+}
+
+/* Step 3: layout the li elements horizontally */
+nav ul {
+	display: flex;
+}
+
+/* Step 4: layout the logo image and the entire nav horizontally */
+header {
+	display: flex;
+}
+
+/* Step 5: position the nav and add hover effects */
+header nav {
+	margin-left: 210px;
+}
+
+header a:hover {
+	border-bottom: 2px solid #abddd5;
+}
+
+/* ********************* banner section ********************* */
+
+.banner {
+	font-size: 18px;
+	background-color: #000;
+	background-image: url(../img/island-bg.jpg);
+	display: flex;
+}
+
+.banner h2 {
+	margin-bottom: 36px;
+	font-family: 'Alegreya', serif;
+	font-size: 36px;
+}
+
+.banner .left-column {
+	width: 414px; /* 578px - 164px padding */
+	padding: 85px 82px 0 82px;
+	text-align: center;
+}
+
+.banner .bar {
+	width: 415px;
+	height: 8px;
+	margin-bottom: 36px;
+	background-color: #abddd5;
+}
+
+.banner .right-column {
+	width: 216px; /* 382px - 166px padding */
+	padding: 85px 83px 0 83px;
+	/* add a background color with opacity */
+	background-color: rgba( 171, 221, 213, 0.8)
+}
+
+.banner .right-column h2 {
+	line-height: 44px;
+}
+
+/* how to style an anchor tag to look like a button */
+.banner a {
+	padding: 9px 38px;
+	margin-bottom: 65px;
+	display: inline-block;
+	text-decoration: none;
+	text-align: center;
+	background-color: #fff;
+	color: #028568;
+	border-radius: 8px;
+}
+
+.banner a:hover {
+	padding: 9px 33px 9px 43px;
+}
