@@ -12,6 +12,7 @@ body {
 header {
 	background-color: rgba(11,119,124,0.08);
 	background-image: url('../img/header-transparent-no-text.png');
+	/* background-image: url('../img/header-transparent.png'); */
 	padding: 100px 0 0 40px;
 	height: 300px;
 }
