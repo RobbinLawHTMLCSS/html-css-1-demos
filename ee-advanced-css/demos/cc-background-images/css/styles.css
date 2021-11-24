@@ -11,7 +11,7 @@ body {
 
 header {
 	background-color: rgba(11,119,124,0.08);
-	background-repeat: no-repeat;
+	/* background-repeat: no-repeat; */
 	background-image: url('../img/header-transparent-no-text.png');
 	/* background-image: url('../img/header-transparent.png'); */
 	padding: 100px 0 0 40px;
@@ -61,6 +61,7 @@ main article > img {
 main article > p {
 	margin: 25px 0 25px 90px;
 	width: 780px;
+	text-align: center;
 }
 
 main article footer {
