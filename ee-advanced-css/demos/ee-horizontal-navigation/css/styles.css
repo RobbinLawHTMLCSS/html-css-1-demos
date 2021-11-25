@@ -28,13 +28,13 @@ header .logo {
 }
 
 /* Step 1: target the anchor link directly to remove the default underline and color */
-nav a {
+header nav a {
 	text-decoration: none;
 	color: #f1f7f6;
 }
 
 /* Step 2: add additional text styling and spacing to the li element */
-nav li {
+header nav li {
 	font-size: 18px;
 	/* line height equals the height of the header element and it vertically centers the text */
 	line-height: 75px;
@@ -42,7 +42,7 @@ nav li {
 }
 
 /* Step 3: layout the li elements horizontally */
-nav ul {
+header nav ul {
 	display: flex;
 }
 
@@ -70,9 +70,12 @@ header a:hover {
 }
 
 .banner h2 {
-	margin-bottom: 36px;
 	font-family: 'Alegreya', serif;
 	font-size: 36px;
+}
+
+.banner .left-column h2 {
+	margin-bottom: 36px;
 }
 
 .banner .left-column {
@@ -90,7 +93,7 @@ header a:hover {
 
 .banner .right-column {
 	width: 216px; /* 382px - 166px padding */
-	padding: 85px 83px 0 83px;
+	padding: 85px 43px 0 43px;
 	/* add a background color with opacity */
 	background-color: rgba( 171, 221, 213, 0.8)
 }
@@ -99,8 +102,24 @@ header a:hover {
 	line-height: 44px;
 }
 
+/* target the anchor link directly to remove the default underline and color */
+.banner .right-column a {
+	text-decoration: none;
+	color: #fff;
+}
+
+/* :hover pseudo-class adds styles only when the mouse is over the link */
+.banner .right-column a:hover {
+	color: #f9ea4f;
+}
+
+/* target the li to adding spacing and other styles */
+.banner .right-column li {
+	line-height: 30px;
+}
+
 /* how to style an anchor tag to look like a button */
-.banner a {
+/* .banner a {
 	padding: 9px 38px;
 	margin-bottom: 65px;
 	display: inline-block;
@@ -113,4 +132,4 @@ header a:hover {
 
 .banner a:hover {
 	padding: 9px 33px 9px 43px;
-}
+} */
