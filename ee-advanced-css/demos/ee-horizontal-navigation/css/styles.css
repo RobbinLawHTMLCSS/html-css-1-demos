@@ -11,52 +11,43 @@ body {
 	width:960px;
 }
 
-.visuallyhidden {
-	position: absolute;
-	overflow: hidden;
-	clip: rect(0 0 0 0);
-	height: 1px; width: 1px;
-	margin: -1px; padding: 0; border: 0;
-}
+/* ********************* header section ********************* */
 
+/* The header will be a flex container. */
+/* the children will be the anchor and nav */
+/* the anchor and nav elements will be arranged horizontally */
 header {
 	background-color: #028568;
+	display: flex;
 }
-
-header .logo {
+/* logo margin as per photoshop measurement*/
+header a img {
 	margin: 10px;
 }
-
-/* Step 1: target the anchor link directly to remove the default underline and color */
-header nav a {
-	text-decoration: none;
-	color: #f1f7f6;
+/* position the nav bar to be away from the logo as per photoshop measurement */
+header nav {
+	margin-left: 210px;
 }
-
-/* Step 2: add additional text styling and spacing to the li element */
-header nav li {
+/* The ul will be a flex container */
+/* the children will be the ul li's */
+/* the li elements will be arranged horizontally */
+header nav ul {
+	display: flex;
+}
+/* add additional text styling and spacing to the li elements */
+header nav ul li {
 	font-size: 18px;
 	/* line height equals the height of the header element and it vertically centers the text */
 	line-height: 75px;
 	margin-right: 30px;
 }
-
-/* Step 3: layout the li elements horizontally */
-header nav ul {
-	display: flex;
+/* target the anchor link directly to remove the default underline and color */
+header nav ul li a {
+	text-decoration: none;
+	color: #f1f7f6;
 }
-
-/* Step 4: layout the logo image and the entire nav horizontally */
-header {
-	display: flex;
-}
-
-/* Step 5: position the nav and add hover effects */
-header nav {
-	margin-left: 210px;
-}
-
-header a:hover {
+/* add the hover effect */
+header nav ul li a:hover {
 	border-bottom: 2px solid #abddd5;
 }
 
@@ -65,13 +56,18 @@ header a:hover {
 .banner {
 	font-size: 18px;
 	background-color: #000;
+	/* image is 960px wide by 362px high */
 	background-image: url(../img/island-bg.jpg);
+	height: 362px;
 	display: flex;
 }
 
 .banner h2 {
 	font-family: 'Alegreya', serif;
+	/* as measured in photoshop 36pt = 36px */
 	font-size: 36px;
+	/* as measured in photoshop 54pt = 54px */
+	line-height: 54px;
 }
 
 .banner .left-column h2 {
@@ -79,57 +75,51 @@ header a:hover {
 }
 
 .banner .left-column {
-	width: 414px; /* 578px - 164px padding */
-	padding: 85px 82px 0 82px;
+	/* from photoshop left-column width is 578px */
+	/* from photoshop left and right padding is 82px * 2 = 164px */
+	/* 578px - 164px padding = 414px content width*/
+	width: 414px;
+	/* photoshop measurement from bottom of header to top of green bar is 175px */
+	/* .banner h2 line-height is 54 px and margin-bottom is 36px = 90px total */
+	/* padding-top is 175px - 90px = 85px */
+	padding: 85px 82px 0px 82px;
 	text-align: center;
 }
 
-.banner .bar {
-	width: 415px;
+.banner .left-column .bar {
+	width: 414px;
 	height: 8px;
 	margin-bottom: 36px;
 	background-color: #abddd5;
 }
 
 .banner .right-column {
-	width: 216px; /* 382px - 166px padding */
-	padding: 85px 43px 0 43px;
+	/* no need for left and right padding as all text is centered */
+	/* 960px - 578px = 382px */
+	width: 382px;
+	/* make padding-top same as left-column  */
+	padding: 85px 0px 0px 0px;
 	/* add a background color with opacity */
-	background-color: rgba( 171, 221, 213, 0.8)
+	background-color: rgba( 171, 221, 213, 0.4);
+	text-align: center;
 }
 
-.banner .right-column h2 {
-	line-height: 44px;
+/* target the li to adding spacing and other styles */
+.banner .right-column nav ul li {
+	line-height: 30px;
 }
+
+/* .banner .right-column h2 {
+	line-height: 44px;
+} */
 
 /* target the anchor link directly to remove the default underline and color */
-.banner .right-column a {
+.banner .right-column nav ul li a {
 	text-decoration: none;
 	color: #fff;
 }
 
 /* :hover pseudo-class adds styles only when the mouse is over the link */
-.banner .right-column a:hover {
-	color: #f9ea4f;
+.banner .right-column nav ul li a:hover {
+	border-bottom: 2px solid #abddd5;
 }
-
-/* target the li to adding spacing and other styles */
-.banner .right-column li {
-	line-height: 30px;
-}
-
-/* how to style an anchor tag to look like a button */
-/* .banner a {
-	padding: 9px 38px;
-	margin-bottom: 65px;
-	display: inline-block;
-	text-decoration: none;
-	text-align: center;
-	background-color: #fff;
-	color: #028568;
-	border-radius: 8px;
-}
-
-.banner a:hover {
-	padding: 9px 33px 9px 43px;
-} */
