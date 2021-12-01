@@ -109,10 +109,6 @@ header nav ul li a:hover {
 	line-height: 30px;
 }
 
-/* .banner .right-column h2 {
-	line-height: 44px;
-} */
-
 /* target the anchor link directly to remove the default underline and color */
 .banner .right-column nav ul li a {
 	text-decoration: none;
