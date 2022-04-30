@@ -1,0 +1,75 @@
+(Lab) CSS Menu Styles
+Navigation Styles Lab
+Weight: 5%
+
+
+This Lab will assess your understanding of:
+
+
+1. how to style text using CSS;
+2. implementing custom fonts via Google Fonts;
+3. exporting images from Photoshop for use on the web;
+4. how to get colours, measurements, and font sizes from a Photoshop document (.psd);
+5. measuring distances in a Photoshop wireframe and mapping them to different parts of the box model; and
+6. using flexbox to recreate a horizontal menu layout.
+
+
+Using the 960px center page framework that we developed together in class, you will build a website from the provided .psd wireframe. This website will be similar to the vertical and horizontal menu layouts that you completed with your instructor in class.
+
+
+Build Steps
+
+
+Setup
+
+
+1. Download all of the provided files. Open your Photoshop document (wireframe.psd).
+
+
+2. Using your Layers Panel [ Window > Layers ], find all of the images that you need. Using the most appropriate file format, save/export them to your img folder.
+
+Hint: your logo should have a transparent background.
+
+
+Typography
+
+
+3. Find and implement the required Google Fonts, including the appropriate font weights.
+
+
+Set the font-family property for all of the typographic elements on your page.
+
+Note: the required fonts for this web page are serif fonts.
+
+
+4. Using the Type Tool [ T ] in Photoshop, determine the font size for each typographic element.
+
+
+5. Set the font-style property for any typographic elements that need to be italic.
+
+
+6. Set the font-weight property for any typographic elements that need to be heavier.
+
+
+7. Determine the text alignment for all of your typographic elements.
+
+
+8. Using the Eyedropper Tool [ I ], the Type Tool [T], and the Color Picker in Photoshop, determine the colours for each typographic element.
+
+
+9. Determine the distance below each typographic element and write it as a CSS declaration.
+
+
+Layout
+
+
+10. Apply your CSS background image and background colours.
+
+
+11. Determine which elements need to be laid out side-by-side; these will be your flex items. Then, determine which elements are their direct parents; these will be your flex containers.
+
+
+Hint: for a close approximation of what your horizontal menu styles will look like, refer to (Demo) Horizontal Menu.
+
+
+12. Determine the distance between elements using the Ruler Tool [ I ]. Translate them into CSS declarations.

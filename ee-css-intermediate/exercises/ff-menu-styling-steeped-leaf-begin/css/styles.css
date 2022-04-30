@@ -1,0 +1,93 @@
+body {
+	background-color: white;
+	font-family: 'EB Garamond', serif;
+	color: #f2f2f2;
+	text-align: center;
+}
+ 
+.container {
+	margin:0 auto;
+	width:960px;
+	font-size: 100%;
+	line-height: 1.2;
+}
+
+/*  COLOUR PALETTE 
+
+Dark Grey   #3f3f40;
+Light Grey  #727273;
+Yellow      #f2dea0;
+Off-White   #f2f2f2;
+Footer Text #a4a5a6;
+
+*/
+
+/* HYPERLINK STYLES */
+
+header nav ul li a,
+main div ul li a {
+	color: #f2dea0;
+	font-size: 24px;
+	line-height: 48px;
+	font-weight: 500;
+	text-decoration: none;
+	font-variant: small-caps;
+}
+header nav ul li a:hover,
+main div ul li a:hover {
+	text-decoration: underline;
+}
+
+/* HEADER */
+
+header {
+	/* put your code here */
+}
+
+header nav {
+	/* put your code here */
+}
+
+header nav img {
+	/* put your code here */
+}
+
+header nav ul {
+	/* put your code here */
+}
+
+header nav ul li a {
+	/* put your code here */
+}
+
+/* MAIN */
+
+main {
+	/* put your code here */
+}
+
+main div {
+	/* put your code here */
+}
+
+main div h2 {
+	/* put your code here */
+}
+
+main div p {
+	/* put your code here */
+}
+
+/* FOOTER */
+
+footer {
+	/* put your code here */
+}
+
+footer h3 {
+	/* put your code here */
+}
+
+footer p {
+	/* put your code here */
+}

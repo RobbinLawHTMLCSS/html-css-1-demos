@@ -1,0 +1,70 @@
+/*
+COLOUR PALETTE 
+
+paper white - #F0EFED; 
+navy grey -   #3E3E44;
+mid-grey -    #6e6e79;
+authors -     #84696F;
+*/
+
+body {
+	background-color: #F0EFED;
+	text-align: center;
+	color: #3E3E44;
+}
+ 
+.container {
+	margin:0 auto;
+	width:960px;
+	font-size: 100%;
+	line-height: 1.5;
+}
+
+/* TYPOGRAPHY */
+
+h1, h2, h3, h4 {
+	font-family: 'Libre Baskerville', serif;
+}
+
+h1 {
+	/* put your code in here */
+}
+
+h2 {
+	/* put your code in here */
+}
+
+h3 {
+	/* put your code in here */
+}
+
+h4 {
+	/* put your code in here */
+}
+
+p {
+	/* put your code in here */
+}
+
+p.byline {
+	/* put your code in here */
+}
+
+p.intro {
+	/* put your code in here */
+}
+
+footer p {
+	/* put your code in here */
+}
+
+/* LAYOUT */
+
+img {
+	margin: 24px 0;
+}
+
+main {
+	margin-bottom: 96px;
+}
+

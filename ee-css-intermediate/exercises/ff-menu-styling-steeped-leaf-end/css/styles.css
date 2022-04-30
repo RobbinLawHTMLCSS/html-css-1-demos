@@ -1,0 +1,107 @@
+body {
+	background-color: white;
+	font-family: 'EB Garamond', serif;
+	color: #f2f2f2;
+	text-align: center;
+}
+ 
+.container {
+	margin:0 auto;
+	width:960px;
+	font-size: 100%;
+	line-height: 1.2;
+}
+
+/*  COLOUR PALETTE 
+
+Dark Grey   #3f3f40;
+Light Grey  #727273;
+Yellow      #f2dea0;
+Off-White   #f2f2f2;
+Footer Text #a4a5a6;
+
+*/
+
+/* HYPERLINK STYLES */
+
+header nav ul li a,
+main div ul li a {
+	color: #f2dea0;
+	font-size: 24px;
+	line-height: 48px;
+	font-weight: 500;
+	text-decoration: none;
+	font-variant: small-caps;
+}
+header nav ul li a:hover,
+main div ul li a:hover {
+	text-decoration: underline;
+}
+
+/* HEADER */
+
+header {
+	border-bottom: 1px solid #727273;
+	background-color: #3f3f40;
+	padding: 20px;
+}
+
+header nav {
+	display: flex;
+	align-items: center;
+}
+
+header nav img {
+	margin-right: 20px;
+}
+
+header nav ul {
+	display: flex;
+}
+
+header nav ul li a {
+	margin-left: 55px;
+}
+
+/* MAIN */
+
+main {
+	background-image: url('../img/teabags.jpg');
+	background-color: black;
+	padding: 100px 20px;
+}
+
+main div {
+	width: 295px;
+	margin-left: 625px;
+}
+
+main div h2 {
+	font-variant: small-caps;
+	font-size: 30px;
+	margin-bottom: 34px;
+}
+
+main div p {
+	font-size: 16px;
+	text-align: left;
+	margin-bottom: 24px;
+}
+
+/* FOOTER */
+
+footer {
+	border-top: 1px solid #727273;
+	color: #a4a5a6;
+	background-color: #3f3f40;
+	padding: 25px 20px;
+}
+
+footer h3 {
+	font-size: 16px;
+	margin-bottom: 16px;
+}
+
+footer p {
+	font-size: 12px;
+}
