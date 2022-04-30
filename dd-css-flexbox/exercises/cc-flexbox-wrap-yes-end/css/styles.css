@@ -1,0 +1,97 @@
+body {
+	font-size: 100%;
+	line-height: 1.5;
+	background-color: #f2f2f2;
+	padding: 26px 0;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: #6a6a6a;
+}
+
+.container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+li {
+	font-size: 24px;
+	text-align: center;
+	padding: 12px 0;
+	color: #606060;
+}
+
+h3 {
+	text-align: left;
+}
+
+h3,
+li {
+	font-size: 20px;
+}
+
+section {
+	background-color: #fff;
+	border: 2px solid #9b9b9b;
+	margin-bottom: 26px;
+}
+
+li,
+section header,
+.section-one-columns div,
+.section-two-columns div {
+	background-color: #d6d6d6;
+	border: 2px solid #9b9b9b;
+	margin-bottom: 26px;
+}
+
+ul,
+.section-one-columns,
+.section-two-columns {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/* Math 
+Total - margin - border - padding = leftover
+960 - (3 * 12) - (8 * 2) - 0
+960 - 36 - 16 = 908
+	908/4 = 227
+*/
+li {
+	width: 227px;
+	margin-right: 12px;
+}
+
+li.no-margin-right {
+	margin-right: 0;
+}
+
+section header {
+	margin: 26px;
+}
+
+/* Math 
+Total - sectionborder - divmargin - divborder - divpadding = leftover
+960 - (2 * 2) - (4 * 26) - (6 * 2) - (6 * 12)
+960 - 4 - 104 - 12 - 72 = 768
+	768/3 = 256
+*/
+.section-one-columns div {
+	width: 256px;
+	padding: 12px;
+	margin-left: 26px;
+}
+
+/* Math 
+Total - sectionborder - divmargin - divborder - divpadding = leftover
+960 - (2 * 2) - (3 * 26) - (4 * 2) - (4 * 12)
+960 - 4 - 78 - 8 - 48 = 822
+	822/2 = 411
+*/
+.section-two-columns div {
+	width: 411px;
+	padding: 12px;
+	margin-left: 26px;
+}

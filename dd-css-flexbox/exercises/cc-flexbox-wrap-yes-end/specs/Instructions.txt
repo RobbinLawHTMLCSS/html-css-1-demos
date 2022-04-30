@@ -1,0 +1,51 @@
+Assignment 2
+Weight: 15%
+
+Introduction
+In this assignment you are going to create a center page layout and duplicate the layout.jpg file that is provided for you. You are required to build a header with navigation boxes and two sections with columns. Each area will test your ability and understanding of the CSS box model, selectors, the flex container, flex-wrap, and the concept of spacing with margins and padding.Make sure to use the browser developer tools to check your sizing.
+
+Site Build
+Use your 960px center page layout framework for the assignment. You have been provided with the markup needed for the assignment but you may add class names to help you target specific elements.
+
+The body element properties are:
+    background color is #f2f2f2
+    padding is 26px top/bottom and 0 left/right
+    font family is Verdana, Geneva, sans-serif
+    color (for the text) is #6a6a6a
+
+The font properties for the level one, level two, level three headings, and list item elements are:
+    font size is 24px
+    text is center aligned
+    padding is top/bottom 12px and left/right 0
+    color is #606060
+
+The font size for the level three headings and the list items are reduced to 20px.
+
+The level three headings are aligned to the left.
+
+Both section elements will have the following properties:
+    background color is #ffffff
+    border width is 2px
+    border style is solid
+    border color is #9b9b9b
+    bottom margin is 26px
+
+The list items, section headers, and all the columns have the following properties:
+    background color is #d6d6d6
+    border width is 2px
+    border style is solid
+    border colour is #9b9b9b
+    bottom margin is 26px
+    padding is top/bottom 12px and left/right 12
+
+Note: A height property will not be needed on any of the elements. The height will come from the content inside.
+
+Area 1 - Header and Nav Items
+The header element contains an unordered list with four equally spaced list items. You will have to calculate the width for each of the four boxes. The boxes should have 12px of spacing between them as shown in the layout.jpg image.
+
+Area 2 - Section One
+The spacing between all elements is 26px. There is a header with a title and six equal sized columns, which have a subheading and one paragraph of Lorem Ipsum text. You will use flex-wrap to layout the columns onto two lines and you will have to calculate the width for each column.
+
+Area 3 - Section Two
+The spacing between all elements is 26px. There is a header with a title and four equal columns underneath, which have a subheading and a paragraph of Lorem Ipsum text. You will use flex-wrap to layout the columns onto two lines and you will have to calculate the width for each column.
+

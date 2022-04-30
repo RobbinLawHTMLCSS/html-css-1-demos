@@ -1,0 +1,75 @@
+body {
+	background-color: white;
+	text-align: center;
+}
+
+.container {
+	margin: 0 auto;
+	width: 960px;
+	font-size: 100%;
+	line-height: 1.5;
+}
+
+/* Typography */
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2 {
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 24px;
+}
+
+h2 {
+	font-size: 18px;
+}
+
+/* Layout*/
+
+header {
+	margin-top: 15px;
+}
+
+header nav {
+	margin: 15px 0;
+}
+
+header nav ul {
+	display: flex;
+}
+
+/* Width Math 
+Total - margin - border - padding = leftover
+960 - (6 * 15) - (10 * 2) - 0
+960 - 90 - 20 = 850
+	850/5 = 170
+*/
+header nav ul li {
+	width: 170px;
+	margin-left: 15px;
+	border: 2px solid #333333;
+	text-align: center;
+}
+
+main {
+	display: flex;
+}
+
+/* Width Math 
+Total - margin - border - padding = leftover
+960 - (3 * 15) - (4 * 2) - (4 * 15)
+960 - 45 - 8 - 60 = 847
+	847/2 = 423.5
+*/
+main section {
+	width: 423.5px;
+	border: 2px solid #333333;
+	margin-left: 15px;
+	margin-top: 15px;
+	padding: 15px;
+}
