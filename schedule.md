@@ -1,9 +1,12 @@
 # Schedule - 2022 Spring
 
+
+## Calendar
+
 |Week|Mon|Tue|Wed|Thu|Fri|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1||May03-Day01||May05-Day02||
-|2||May10-Day03||May12-Day04||
+|1||May03-[Day01](#day01)-Intro-Setup||May05-Day02-[Day02](#day02)-HTML-Basics||
+|2||May10-[Day03](#day03)-HTML-Basics||May12-[Day04](#day04)-HTML-Basics||
 |3||May17-Day05||May19-Day06||
 |4||May24-Day07||May26-Day08||
 |5||May31-Day09||Jun02-Day10||
@@ -33,6 +36,8 @@ Setup of Development Environment.
 
 Exercise – Read MDN Installing Basic Software
 
+[Back to Top](#calendar)
+
 ## Day02
 
 HTML Basic Elements
@@ -48,6 +53,8 @@ HTML Basic Elements
 Exercise – Build “hello world” from scratch
 Read MDN Introduction to HTML
 
+[Back to Top](#calendar)
+
 ## Day03
 
 HTML Basic Elements
@@ -62,6 +69,8 @@ HTML Basic Elements
 
 Exercise – anchor, image, lists.
 
+[Back to Top](#calendar)
+
 ## Day04
 
 HTML Basic Elements
@@ -75,17 +84,17 @@ HTML Basic Elements
 
 Exercise – figure, image-link, table
 
+[Back to Top](#calendar)
+
 ## Day05
 
 HTML Basic Elements
 review exercise requirements/hints
 
-
-
-
-
 Exercise – Basic HTML Markup
 Travel to Ireland
+
+[Back to Top](#calendar)
 
 ## Day06
 
