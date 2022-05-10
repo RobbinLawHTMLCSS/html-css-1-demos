@@ -5,7 +5,7 @@
 
 |Week|Mon|Tue|Wed|Thu|Fri|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1||May03-[Day01](#day01)-Intro-Setup||May05-Day02-[Day02](#day02)-HTML-Basics||
+|1||May03-[Day01](#day01)-Intro-Setup||May05-[Day02](#day02)-HTML-Basics||
 |2||May10-[Day03](#day03)-HTML-Basics||May12-[Day04](#day04)-HTML-Basics||
 |3||May17-Day05||May19-Day06||
 |4||May24-Day07||May26-Day08||
