@@ -1,23 +1,68 @@
 # Schedule - 2022 Fall
 
+
+## Calendar
+
 |Week|Mon|Tue|Wed|Thu|Fri|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|0||||Sep01-Day|Sep02-Day|
-|1|Sep05|Sep06-Day|Sep07-Day|Sep08-Day|Sep09-Day|
-|2|Sep12-Day|Sep13-Day|Sep14-Day|Sep15-Day|Sep16-Day|
-|3|Sep19-Day|Sep20-Day|Sep21-Day|Sep22-Day|Sep23-Day|
-|4|Sep26-Day|Sep27-Day|Sep28-Day|Sep29-Day|Sep30-Day|
-|5|Oct03-Day|Oct04-Day|Oct05-Day|Oct06-Day|Oct07-Day|
-|6|Oct10|Oct11|Oct12-Day|Oct13-Day|Oct14-Day|
-|7|Oct17-Day|Oct18-Day|Oct19-Day|Oct20-Day|Oct21-Day|
-|8|Oct24-Day|Oct25-Day|Oct26-Day|Oct27-Day|Oct28-Day|
-|9|Oct31-Day|Nov01-Day|Nov02-Day|Nov03-Day|Nov04-Day|
-|10|Nov07-Day|Nov08-Day|Nov09-Day|Nov10|Nov11|
-|11|Nov14-Day|Nov15-Day|Nov16-Day|Nov17-Day|Nov18-Day|
-|12|Nov21-Day|Nov22-Day|Nov23-Day|Nov24-Day|Nov25-Day|
-|13|Nov28-Day|Nov29-Day|Nov30-Day|Dec01-Day|Dec02-Day|
-|14|Dec05-Day|Dec06-Day|Dec07-Day|Dec08-Day|Dec09-Day|
-|15|Dec12-Day|Dec13-Day|Dec14-Day|Dec15-Day||
+|0||||Sep01|Sep02-[Day01](#day01)|
+|1|Sep05|Sep06-[Day02](#day02)|Sep07|Sep08|Sep09-[Day03](#day03)|
+|2|Sep12-[Day04](#day04)|Sep13-[Day05](#day05)|Sep14|Sep15|Sep16-[Day06](#day06)|
+|3|Sep19-[Day07](#day07)|Sep20-[Day08](#day08)|Sep21|Sep22|Sep23-[Day09](#day09)|
+|4|Sep26-[Day10](#day10)|Sep27-[Day11](#day11)|Sep28|Sep29|Sep30-[Day12](#day12)|
+|5|Oct03-[Day13](#day13)|Oct04-[Day14](#day14)|Oct05|Oct06|Oct07-[Day15](#day15)|
+|6|Oct10|Oct11|Oct12|Oct13|Oct14-[Day16](#day16)|
+|7|Oct17-[Day17](#day17)|Oct18-[Day18](#day18)|Oct19|Oct20|Oct21-[Day19](#day19)|
+|8|Oct24-[Day20](#day20)|Oct25-[Day21](#day21)|Oct26|Oct27|Oct28-[Day22](#day22)|
+|9|Oct31-[Day23](#day23)|Nov01-[Day24](#day24)|Nov02|Nov03|Nov04-[Day25](#day25)|
+|10|Nov07-[Day26](#day26)|Nov08-[Day27](#day27)|Nov09|Nov10|Nov11|
+|11|Nov14-[Day28](#day28)|Nov15-[Day29](#day29)|Nov16|Nov17|Nov18-[Day30](#day30)|
+|12|Nov21-[Day31](#day31)|Nov22-[Day32](#day32)|Nov23|Nov24|Nov25-[Day33](#day33)|
+|13|Nov28-[Day34](#day34)|Nov29-[Day35](#day35)|Nov30|Dec01|Dec02-[Day36](#day36)|
+|14|Dec05-[Day37](#day37)|Dec06-[Day38](#day38)|Dec07|Dec08|Dec09-[Day39](#day39)|
+|15|Dec12-[Day40](#day40)|Dec13-[Day41](#day41)|Dec14|Dec15||
+
+## Cal DMIT2018 A02
+
+|Week|Mon|Tue|Wed|Thu|Fri|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|0||||Sep01|Sep02-[Day01](#day01)|
+|1|Sep05|Sep06-[Day02](#day02)|Sep07|Sep08|Sep09-[Day03](#day03)|
+|2|Sep12|Sep13-[Day04](#day04)|Sep14-[Day05](#day05)|Sep15|Sep16-[Day06](#day06)|
+|3|Sep19|Sep20-[Day07](#day07)|Sep21-[Day08](#day08)|Sep22|Sep23-[Day09](#day09)|
+|4|Sep26|Sep27-[Day10](#day10)|Sep28-[Day11](#day11)|Sep29|Sep30-[Day12](#day12)|
+|5|Oct03|Oct04-[Day13](#day13)|Oct05-[Day14](#day14)|Oct06|Oct07-[Day15](#day15)|
+|6|Oct10|Oct11|Oct12|Oct13|Oct14-[Day16](#day16)|
+|7|Oct17|Oct18-[Day17](#day17)|Oct19-[Day18](#day18)|Oct20|Oct21-[Day19](#day19)|
+|8|Oct24|Oct25-[Day20](#day20)|Oct26-[Day21](#day21)|Oct27|Oct28-[Day22](#day22)|
+|9|Oct31|Nov01-[Day23](#day23)|Nov02-[Day24](#day24)|Nov03|Nov04-[Day25](#day25)|
+|10|Nov07|Nov08-[Day01](#day01)|Nov09-[Day01](#day01)|Nov10|Nov11|
+|11|Nov14|Nov15-[Day01](#day01)|Nov16-[Day01](#day01)|Nov17|Nov18-[Day01](#day01)|
+|12|Nov21|Nov22-[Day01](#day01)|Nov23-[Day01](#day01)|Nov24|Nov25-[Day01](#day01)|
+|13|Nov28|Nov29-[Day01](#day01)|Nov30-[Day01](#day01)|Dec01|Dec02-[Day01](#day01)|
+|14|Dec05|Dec06-[Day01](#day01)|Dec07-[Day01](#day01)|Dec08|Dec09-[Day01](#day01)|
+|15|Dec12|Dec13-[Day01](#day01)|Dec14-[Day01](#day01)|Dec15||
+
+## Cal CPSC1520
+
+|Week|Mon|Tue|Wed|Thu|Fri|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|0||||Sep01-[Day01](#day01)|Sep02|
+|1|Sep05|Sep06|Sep07-[Day02](#day02)|Sep08-[Day03](#day03)|Sep09|
+|2|Sep12-[Day04](#day04)|Sep13|Sep14-[Day05](#day05)|Sep15-[Day06](#day06)|Sep16|
+|3|Sep19-[Day07](#day07)|Sep20|Sep21-[Day08](#day08)|Sep22-[Day09](#day09)|Sep23|
+|4|Sep26-[Day10](#day10)|Sep27|Sep28-[Day11](#day11)|Sep29-[Day12](#day12)|Sep30|
+|5|Oct03-[Day13](#day13)|Oct04|Oct05-[Day14](#day14)|Oct06-[Day15](#day15)|Oct07|
+|6|Oct10|Oct11|Oct12-[Day16](#day16)|Oct13-[Day17](#day17)|Oct14|
+|7|Oct17-[Day18](#day18)|Oct18|Oct19-[Day19](#day19)|Oct20-[Day20](#day20)|Oct21|
+|8|Oct24-[Day21](#day21)|Oct25|Oct26-[Day22](#day22)|Oct27-[Day23](#day23)|Oct28|
+|9|Oct31-[Day24](#day24)|Nov01|Nov02-[Day25](#day25)|Nov03-[Day26](#day26)|Nov04|
+|10|Nov07-[Day27](#day27)|Nov08|Nov09-[Day28](#day28)|Nov10|Nov11|
+|11|Nov14-[Day29](#day29)|Nov15|Nov16-[Day30](#day30)|Nov17-[Day31](#day31)|Nov18|
+|12|Nov21-[Day32](#day32)|Nov22|Nov23-[Day33](#day33)|Nov24-[Day34](#day34)|Nov25|
+|13|Nov28-[Day35](#day35)|Nov29|Nov30-[Day36](#day36)|Dec01-[Day37](#day37)|Dec02|
+|14|Dec05-[Day38](#day38)|Dec06|Dec07-[Day39](#day39)|Dec08-[Day40](#day40)|Dec09|
+|15|Dec12-[Day41](#day41)|Dec13|Dec14-[Day42](#day42)|Dec15-[Day43](#day43)||
 
 
 ## Day01
@@ -28,11 +73,11 @@ Intro to Course
 Setup of Development Environment.
   - Visual Studio Code (VSCode)
   - VSCode Extensions
-  - Dodwnload Live Server Extension
+  - Visual Studio 2022 Community Edition
   - Download Git to computer
   - GitHub Account
 
-Exercise – Read MDN Installing Basic Software
+[Back to Top](#calendar)
 
 ## Day02
 
@@ -44,332 +89,126 @@ Exercise – Read MDN Installing Basic Software
 
 ## Day04
 
-HTML Basic Elements
-
-- DEMO figures
-- `<figure>` and `<figcaption>`
-- blockquote
-- DEMO image-links
-- DEMO tables
-- review exercise requirements/hints
-
-Exercise – figure, image-link, table
 
 ## Day05
 
-HTML Basic Elements
-review exercise requirements/hints
-
-
-
-
-
-Exercise – Basic HTML Markup
-Travel to Ireland
 
 ## Day06
 
-HTML Semantic Elements
-join github classroom via Microsoft Teams link
-create private github repo via github classroom
-clone new repo to local folder
-DEMO document-structure
-<header> and <main> and <footer>
-review exercise requirements/hints
-
-Exercise – Semantic Document Structure
 
 ## Day07
 
-HTML Semantic Elements
-DEMO document-sectioning
-<nav> and <section> and <aside> and <article>
-review exercise requirements/hints
-
-
-
-
-Exercise – Semantic Document Sectioning
 
 ## Day08
 
-HTML Page Navigation
-DEMO pages-in-same-directory
-DEMO pages-in different-directories
-review exercise requirements/hints
-review assignment requirements/hints
-
-Exercise – Page Navigation
-
-Assignment 01 – HTML Markup with Navigation
-Star Wars
 
 ## Day09
 
-HTML Page Navigation
-review assignment requirements/hints
-
-
-
-
-
-
-Assignment 01 – HTML Markup with Navigation
-Star Wars
-
-Due 11:59 PM Sunday June 05
 
 ## Day10
 
-CSS Intro & CSS Selector Types
-DEMO linked-embedded-inline
-POWERPOINT Intro To CSS
-html element selectors (h1 & p)
-css background-color property
-css color property
-css font-size property
-DEMO selectors
-POWERPOINT Selector Types
-html element selectors review
-id selectors
-class selectors and best practices for naming
-element.class selectors
-multiple element selectors
-decendant selectors
-decendant combinator selectors
-pseudo-class selectors
-review exercise requirements/hints
-
-Exercise – CSS Selectors – Canon Camera
-text-decoration, font-family properties
 
 ## Day11
 
-CSS Casade, Specificity, & Inheritance
-DEMO specificity-coffee-cup
-POWERPOINT Cascade, Specificity, Inheritance
-review exercise requirements/hints
-
-Exercise – CSS Selectors – Canon Camera
-text-decoration, font-family properties
 
 ## Day12
 
-CSS Box Model
-DEMO box-model
-Chrome Dev Tools
-POWERPOINT The Box Model
-margin property
-padding property
-border property
-css border-width property
-css border-style property
-css border-color property
-width and height properties
-review exercise requirements/hints
-
-
-Exercise – Read Documentation & Watch Videos
 
 ## Day13
 
-CSS Box Model
-DEMO box-model
-Chrome Dev Tools
-POWERPOINT The Box Model
-margin property
-padding property
-border property
-css border-width property
-css border-style property
-css border-color property
-width and height properties
-review exercise requirements/hints
-
-
-Exercise – Read Documentation & Watch Videos
 
 ## Day14
 
-CSS Reset & Center Page Layout
-DEMO center-page-layout
-POWERPOINT Fixed Width Center Page Layout with Reset Styles
-DEMO bbq-solid-red
-review assignment requirements/hints
-
-Assignment 02 – CSS Selectors
-BBQ Menu
 
 ## Day15
 
-CSS Reset & Center Page Layout
-DEMO bbq-solid-red
-review assignment requirements/hints
-
-
-Assignment 02 – CSS Selectors
-BBQ Menu
-
-Quiz 1
-
-Due 11:59 PM Sunday June 26 
 
 ## Day16
 
-Flexbox
-DEMO flexbox-wrap-no
-POWERPOINT Flexbox
-display: flex;
-DEMO flexbox-horizontal-nav-bar
-review exercise requirements/hints
-
-
-Exercise – Flexbox with No Wrap
-Page Layout with Picture and Lorem Content
 
 ## Day17
 
-Flexbox
-DEMO flexbox-wrap-yes
-flexwrap: wrap;
-review exercise requirements/hints
-
-
-Exercise – Flexbox with Wrap
-Page Layout with Lorem Content
 
 ## Day18
 
-Styling Text
-DEMO text-styling City of Edmonton Activities
-google fonts
-grabbing font families from photoshop files
-grabbing text sizes from photoshop files
-review exercise requirements/hints
-
-Exercise - Text Styling
-Novels
 
 ## Day19
 
-Styling Text
-review exercise requirements/hints
-
-Exercise - Text Styling
-Novels
 
 ## Day20
 
-Web Image Formats & Background Property
-DEMO background-images Yoga
-grabbing images from photoshop files
-background-image:
-background-repeat:
-background-color: rgba();
-review exercise requirements/hints
-
-Exercise – Image Formats
 
 ## Day21
 
-Web Image Formats & Background Property
-DEMO background-images Yoga
-Build Yoga Web site with assets from photoshop
-grabbing images from wireframe for exercise
-review exercise requirements/hints
-
-
-
-Exercise – Image Formats
 
 ## Day22
 
-Styling Navigation Elements
-DEMO navigation Hawaii
-horizontal navigation styling with flexbox
-review exercise requirements/hints
-
-
-Exercise – Styling Navigation
-Steeped Leaf
-Horizontal Navigation Part
 
 ## Day23
 
-Styling Navigation Elements
-DEMO navigation Hawaii
-vertical navigation styling
-review exercise requirements/hints
-
-
-Exercise – Styling Navigation
-Steeped Leaf
-Vertical Navigation Part
 
 ## Day24
 
-Styling Navigation Elements
-Styling Horizontal Navigation
-review assignment requirements/hints
-
-Assignment 03 – Styling Text, Images, Navigation
-Succulents Shop
 
 ## Day25
 
-Styling Navigation Elements
-review assignment requirements/hints
-
-
-Assignment 03 – Styling Text, Images, Navigation
-Succulents Shop
-Due 11:59 PM Sunday July 31
 
 ## Day26
 
-Styling Form Elements
-form styling
-review assignment requirements/hints
-
-Assignment 04 – Styling Forms
-Pizza Truck
 
 ## Day27
 
-Styling Form Elements
-form styling
-review assignment requirements/hints
-
-Assignment 04 – Styling Forms
-Pizza Truck
 
 ## Day28
 
-Styling Form Elements
-form styling
-review assignment requirements/hints
-
-Assignment 04 – Styling Forms
-Pizza Truck
 
 ## Day29
 
-Styling Form Elements
-form styling
-review assignment requirements/hints
-
-Assignment 04 – Styling Forms
-Pizza Truck
 
 ## Day30
 
-Styling Form Elements
-form styling
-review assignment requirements/hints
 
-Assignment 04 – Styling Forms
-Pizza Truck
+## Day31
 
-Quiz 2
 
-Due 4:59 PM Friday
+## Day32
+
+
+## Day33
+
+
+## Day34
+
+
+## Day35
+
+
+## Day36
+
+
+## Day37
+
+
+## Day38
+
+
+## Day39
+
+
+## Day40
+
+
+## Day41
+
+
+## Day42
+
+
+## Day43
+
+
+## Day44
+
+[Back to Top](#calendar)
+
+## Day45
