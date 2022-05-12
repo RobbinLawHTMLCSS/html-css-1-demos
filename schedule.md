@@ -7,19 +7,19 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1||May03-[Day01](#day01)-Intro-Setup||May05-[Day02](#day02)-HTML-Basics||
 |2||May10-[Day03](#day03)-HTML-Basics||May12-[Day04](#day04)-HTML-Basics||
-|3||May17-Day05||May19-Day06||
-|4||May24-Day07||May26-Day08||
-|5||May31-Day09||Jun02-Day10||
-|6||Jun07-Day11||Jun09-Day12||
-|7||Jun14-Day13||Jun16-Day14||
-|8||Jun21-Day15||Jun23-Day16||
-|9||Jun28-Day17||Jun30-Day18||
-|10||Jul05-Day19||Jul05-Day20||
-|11||Jul12-Day21||Jul14-Day22||
-|12||Jul19-Day23||Jul21-Day24||
-|13||Jul26-Day25||Jul28-Day26||
-|14||Aug02-Day27||Aug04-Day28||
-|15||Aug09-Day29||Aug11-Day30||
+|3||May17-[Day05](#day05)-HTML-Basics||May19-[Day06](#day06)-HTML-Basics||
+|4||May24-[Day07](#day07)-HTML-Basics||May26-[Day08](#day08)-Page-Navigation||
+|5||May31-[Day09](#day09)-Page-Navigation||Jun02-[Day10](#day10)-A01-Due-Friday-23:59||
+|6||Jun07-[Day11](#day11)-CSS-Intro||Jun09-[Day12](#day12)-CSS-Selector-Types||
+|7||Jun14-[Day13](#day13)-Cascade-Specificity-Inheritance||Jun16-[Day14](#day14)-CSS-Box-Model||
+|8||Jun21-[Day15](#day15)-Reset-Center-Page-Layout||Jun23-[Day16](#day16)-A02-Q01-Due-Friday-23:59||
+|9||Jun28-[Day17](#day17)-Flexbox||Jun30-[Day18](#day18)-Flexbox||
+|10||Jul05-[Day19](#day19)-Styling-Text||Jul05-[Day20](#day20)-Styling-Text||
+|11||Jul12-[Day21](#day21)-Image-Formats||Jul14-[Day22](#day22)-Image-Formats||
+|12||Jul19-[Day23](#day23)-Styling-Navigation||Jul21-[Day24](#day24)-Styling-Navigation||
+|13||Jul26-[Day25](#day25)-A03||Jul28-[Day26](#day26)-A03-Due-Friday-23:59||
+|14||Aug02-[Day27](#day27)-Styling-Forms||Aug04-[Day28](#day28)-Styling-Forms||
+|15||Aug09-[Day29](#day29)-A04||Aug11-[Day30](#day30)-A04-Q02-Due-Friday-23:59||
 
 
 ## Day01
@@ -89,7 +89,11 @@ Exercise – figure, image-link, table
 ## Day05
 
 HTML Basic Elements
-review exercise requirements/hints
+
+- join github classroom via Microsoft Teams link
+- create private github repo via github classroom
+- clone new repo to local folder
+- review exercise requirements/hints
 
 Exercise – Basic HTML Markup
 Travel to Ireland
@@ -99,306 +103,336 @@ Travel to Ireland
 ## Day06
 
 HTML Semantic Elements
-join github classroom via Microsoft Teams link
-create private github repo via github classroom
-clone new repo to local folder
-DEMO document-structure
-<header> and <main> and <footer>
-review exercise requirements/hints
+
+- DEMO document-structure
+- `<header>` and `<main>` and `<footer>`
+- review exercise requirements/hints
 
 Exercise – Semantic Document Structure
+
+[Back to Top](#calendar)
 
 ## Day07
 
 HTML Semantic Elements
-DEMO document-sectioning
-<nav> and <section> and <aside> and <article>
-review exercise requirements/hints
 
-
-
+- DEMO document-sectioning
+- `<nav>` and `<section>` and `<aside>` and `<article>`
+- review exercise requirements/hints
 
 Exercise – Semantic Document Sectioning
+
+[Back to Top](#calendar)
 
 ## Day08
 
 HTML Page Navigation
-DEMO pages-in-same-directory
-DEMO pages-in different-directories
-review exercise requirements/hints
-review assignment requirements/hints
+
+- DEMO pages-in-same-directory
+- DEMO pages-in different-directories
+- review exercise requirements/hints
+- review assignment requirements/hints
 
 Exercise – Page Navigation
 
-Assignment 01 – HTML Markup with Navigation
-Star Wars
+[Back to Top](#calendar)
 
 ## Day09
 
 HTML Page Navigation
-review assignment requirements/hints
 
-
-
-
-
+- review assignment requirements/hints
 
 Assignment 01 – HTML Markup with Navigation
 Star Wars
 
-Due 11:59 PM Sunday June 05
+[Back to Top](#calendar)
 
 ## Day10
 
-CSS Intro & CSS Selector Types
-DEMO linked-embedded-inline
-POWERPOINT Intro To CSS
-html element selectors (h1 & p)
-css background-color property
-css color property
-css font-size property
-DEMO selectors
-POWERPOINT Selector Types
-html element selectors review
-id selectors
-class selectors and best practices for naming
-element.class selectors
-multiple element selectors
-decendant selectors
-decendant combinator selectors
-pseudo-class selectors
-review exercise requirements/hints
+HTML Page Navigation
 
-Exercise – CSS Selectors – Canon Camera
-text-decoration, font-family properties
+- review assignment requirements/hints
+
+Assignment 01 – HTML Markup with Navigation
+Star Wars
+
+[Back to Top](#calendar)
 
 ## Day11
 
-CSS Casade, Specificity, & Inheritance
-DEMO specificity-coffee-cup
-POWERPOINT Cascade, Specificity, Inheritance
-review exercise requirements/hints
+CSS Intro
+
+- DEMO linked-embedded-inline
+- POWERPOINT Intro To CSS
+- html element selectors (h1 & p)
+- css background-color property
+- css color property
+- css font-size property
+
+- review exercise requirements/hints
+
+Exercise – 
+
+[Back to Top](#calendar)
+
+## Day12
+
+CSS Selector Types
+
+- DEMO selectors
+- POWERPOINT Selector Types
+- html element selectors review
+- id selectors
+- class selectors and best practices for naming
+- element.class selectors
+- multiple element selectors
+- decendant selectors
+- decendant combinator selectors
+- pseudo-class selectors
+- review exercise requirements/hints
 
 Exercise – CSS Selectors – Canon Camera
 text-decoration, font-family properties
 
-## Day12
-
-CSS Box Model
-DEMO box-model
-Chrome Dev Tools
-POWERPOINT The Box Model
-margin property
-padding property
-border property
-css border-width property
-css border-style property
-css border-color property
-width and height properties
-review exercise requirements/hints
-
-
-Exercise – Read Documentation & Watch Videos
+[Back to Top](#calendar)
 
 ## Day13
 
-CSS Box Model
-DEMO box-model
-Chrome Dev Tools
-POWERPOINT The Box Model
-margin property
-padding property
-border property
-css border-width property
-css border-style property
-css border-color property
-width and height properties
-review exercise requirements/hints
+CSS Cascade-Specificity-Inheritance
 
+- DEMO specificity-coffee-cup
+- POWERPOINT Cascade-Specificity-Inheritance
+- review exercise requirements/hints
 
-Exercise – Read Documentation & Watch Videos
+Exercise – 
+
+[Back to Top](#calendar)
 
 ## Day14
 
-CSS Reset & Center Page Layout
-DEMO center-page-layout
-POWERPOINT Fixed Width Center Page Layout with Reset Styles
-DEMO bbq-solid-red
-review assignment requirements/hints
+CSS Box Model
 
-Assignment 02 – CSS Selectors
-BBQ Menu
+- DEMO box-model
+- Chrome Dev Tools
+- POWERPOINT The Box Model
+- margin property
+- padding property
+- border property
+- border-width property
+- border-style property
+- border-color property
+- content width and height properties
+- review exercise requirements/hints
+
+Exercise – Read Documentation & Watch Videos
+
+[Back to Top](#calendar)
 
 ## Day15
 
 CSS Reset & Center Page Layout
-DEMO bbq-solid-red
-review assignment requirements/hints
 
+- DEMO center-page-layout
+- POWERPOINT Fixed Width Center Page Layout with Reset Styles
+- DEMO bbq-solid-red
+- review assignment requirements/hints
 
 Assignment 02 – CSS Selectors
 BBQ Menu
 
-Quiz 1
-
-Due 11:59 PM Sunday June 26 
+[Back to Top](#calendar)
 
 ## Day16
 
-Flexbox
-DEMO flexbox-wrap-no
-POWERPOINT Flexbox
-display: flex;
-DEMO flexbox-horizontal-nav-bar
-review exercise requirements/hints
+CSS Reset & Center Page Layout
 
+- review assignment requirements/hints
 
-Exercise – Flexbox with No Wrap
-Page Layout with Picture and Lorem Content
+Assignment 02 – CSS Selectors
+BBQ Menu
+
+Quiz 1 
+
+[Back to Top](#calendar)
 
 ## Day17
 
 Flexbox
-DEMO flexbox-wrap-yes
-flexwrap: wrap;
-review exercise requirements/hints
 
+- DEMO flexbox-wrap-no
+- POWERPOINT Flexbox
+- display: flex;
+- DEMO flexbox-horizontal-nav-bar
+- review exercise requirements/hints
+
+Exercise – Flexbox with No Wrap
+Page Layout with Picture and Lorem Content
+
+[Back to Top](#calendar)
+
+## Day18
+
+Flexbox
+
+- DEMO flexbox-wrap-yes
+- flexwrap: wrap;
+- review exercise requirements/hints
 
 Exercise – Flexbox with Wrap
 Page Layout with Lorem Content
 
-## Day18
-
-Styling Text
-DEMO text-styling City of Edmonton Activities
-google fonts
-grabbing font families from photoshop files
-grabbing text sizes from photoshop files
-review exercise requirements/hints
-
-Exercise - Text Styling
-Novels
+[Back to Top](#calendar)
 
 ## Day19
 
 Styling Text
-review exercise requirements/hints
+
+- DEMO text-styling City of Edmonton Activities
+- google fonts
+- grabbing font families from photoshop files
+- grabbing text sizes from photoshop files
+- review exercise requirements/hints
 
 Exercise - Text Styling
 Novels
 
+[Back to Top](#calendar)
+
 ## Day20
 
-Web Image Formats & Background Property
-DEMO background-images Yoga
-grabbing images from photoshop files
-background-image:
-background-repeat:
-background-color: rgba();
-review exercise requirements/hints
+Styling Text
 
-Exercise – Image Formats
+- review exercise requirements/hints
+
+Exercise - Text Styling
+Novels
+
+[Back to Top](#calendar)
 
 ## Day21
 
 Web Image Formats & Background Property
-DEMO background-images Yoga
-Build Yoga Web site with assets from photoshop
-grabbing images from wireframe for exercise
-review exercise requirements/hints
 
-
+- DEMO background-images Yoga
+- grabbing images from photoshop files
+- background-image:
+- background-repeat:
+- background-color: rgba();
+- review exercise requirements/hints
 
 Exercise – Image Formats
 
+[Back to Top](#calendar)
+
 ## Day22
 
-Styling Navigation Elements
-DEMO navigation Hawaii
-horizontal navigation styling with flexbox
-review exercise requirements/hints
+Web Image Formats & Background Property
 
+- DEMO background-images Yoga
+- Build Yoga Web site with assets from photoshop
+- grabbing images from wireframe for exercise
+- review exercise requirements/hints
+
+Exercise – Image Formats
+
+[Back to Top](#calendar)
+
+## Day23
+
+Styling Navigation Elements
+
+- DEMO navigation Hawaii
+- horizontal navigation styling with flexbox
+- review exercise requirements/hints
 
 Exercise – Styling Navigation
 Steeped Leaf
 Horizontal Navigation Part
 
-## Day23
+[Back to Top](#calendar)
+
+## Day24
 
 Styling Navigation Elements
-DEMO navigation Hawaii
-vertical navigation styling
-review exercise requirements/hints
 
+- DEMO navigation Hawaii
+- vertical navigation styling
+- review exercise requirements/hints
 
 Exercise – Styling Navigation
 Steeped Leaf
 Vertical Navigation Part
 
-## Day24
-
-Styling Navigation Elements
-Styling Horizontal Navigation
-review assignment requirements/hints
-
-Assignment 03 – Styling Text, Images, Navigation
-Succulents Shop
+[Back to Top](#calendar)
 
 ## Day25
 
-Styling Navigation Elements
-review assignment requirements/hints
+Styling Text, Images, and Navigation
 
+- review assignment requirements/hints
 
 Assignment 03 – Styling Text, Images, Navigation
 Succulents Shop
-Due 11:59 PM Sunday July 31
+
+[Back to Top](#calendar)
 
 ## Day26
 
-Styling Form Elements
-form styling
-review assignment requirements/hints
+Styling Text, Images, and Navigation
 
-Assignment 04 – Styling Forms
-Pizza Truck
+- review assignment requirements/hints
+
+Assignment 03 – Styling Text, Images, Navigation
+Succulents Shop
+
+[Back to Top](#calendar)
 
 ## Day27
 
 Styling Form Elements
-form styling
-review assignment requirements/hints
+
+- form styling
+- review assignment requirements/hints
 
 Assignment 04 – Styling Forms
 Pizza Truck
+
+[Back to Top](#calendar)
 
 ## Day28
 
 Styling Form Elements
-form styling
-review assignment requirements/hints
+
+- form styling
+- review assignment requirements/hints
 
 Assignment 04 – Styling Forms
 Pizza Truck
+
+[Back to Top](#calendar)
 
 ## Day29
 
 Styling Form Elements
-form styling
-review assignment requirements/hints
+
+- review assignment requirements/hints
 
 Assignment 04 – Styling Forms
 Pizza Truck
 
+[Back to Top](#calendar)
+
 ## Day30
 
 Styling Form Elements
-form styling
-review assignment requirements/hints
+
+- review assignment requirements/hints
 
 Assignment 04 – Styling Forms
 Pizza Truck
 
 Quiz 2
 
-Due 4:59 PM Friday
+[Back to Top](#calendar)
+
