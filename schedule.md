@@ -7,12 +7,12 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1||May03-[Day01](#day01)-Intro-Setup||May05-[Day02](#day02)-HTML-Basics||
 |2||May10-[Day03](#day03)-HTML-Basics||May12-[Day04](#day04)-HTML-Basics||
-|3||May17-[Day05](#day05)-HTML-Basics||May19-[Day06](#day06)-HTML-Basics||
-|4||May24-[Day07](#day07)-HTML-Basics||May26-[Day08](#day08)-Page-Navigation||
-|5||May31-[Day09](#day09)-Page-Navigation||Jun02-[Day10](#day10)-A01-Due-Friday-23:59||
-|6||Jun07-[Day11](#day11)-CSS-Intro||Jun09-[Day12](#day12)-CSS-Selector-Types||
-|7||Jun14-[Day13](#day13)-Cascade-Specificity-Inheritance||Jun16-[Day14](#day14)-CSS-Box-Model||
-|8||Jun21-[Day15](#day15)-Reset-Center-Page-Layout||Jun23-[Day16](#day16)-A02-Q01-Due-Friday-23:59||
+|3||May17-[Day05](#day05)-HTML-Semantic-Elements||May19-[Day06](#day06)-HTML-Page-Navigation||
+|4||May24-[Day07](#day07)-A01||May26-[Day08](#day08)-A01-Due-Friday-23:59||
+|5||May31-[Day09](#day09)-CSS-Intro||Jun02-[Day10](#day10)-CSS-Selectors||
+|6||Jun07-[Day11](#day11)-Cascade-Specificity-Inheritance||Jun09-[Day12](#day12)-Reset-Center-Page-Layout||
+|7||Jun14-[Day13](#day13)-CSS-Box-Model||Jun16-[Day14](#day14)-CSS-Box-Model||
+|8||Jun21-[Day15](#day15)-A02||Jun23-[Day16](#day16)-A02-Q01-Due-Friday-23:59||
 |9||Jun28-[Day17](#day17)-Flexbox||Jun30-[Day18](#day18)-Flexbox||
 |10||Jul05-[Day19](#day19)-Styling-Text||Jul05-[Day20](#day20)-Styling-Text||
 |11||Jul12-[Day21](#day21)-Image-Formats||Jul14-[Day22](#day22)-Image-Formats||
@@ -30,7 +30,7 @@ Intro to Course
 Setup of Development Environment.
   - Visual Studio Code (VSCode)
   - VSCode Extensions
-  - Dodwnload Live Server Extension
+  - Download Live Server Extension
   - Download Git to computer
   - GitHub Account
 
@@ -84,82 +84,65 @@ HTML Basic Elements
 
 Exercise – figure, image-link, table
 
-[Back to Top](#calendar)
-
-## Day05
-
-HTML Basic Elements
-
-- join github classroom via Microsoft Teams link
-- create private github repo via github classroom
-- clone new repo to local folder
-- review exercise requirements/hints
-
 Exercise – Basic HTML Markup
 Travel to Ireland
 
 [Back to Top](#calendar)
 
-## Day06
+## Day05
 
 HTML Semantic Elements
 
+- join github classroom via Microsoft Teams link
+- create private github repo via github classroom
+- clone new repo to local folder
 - DEMO document-structure
 - `<header>` and `<main>` and `<footer>`
-- review exercise requirements/hints
-
-Exercise – Semantic Document Structure
-
-[Back to Top](#calendar)
-
-## Day07
-
-HTML Semantic Elements
-
 - DEMO document-sectioning
 - `<nav>` and `<section>` and `<aside>` and `<article>`
 - review exercise requirements/hints
+
+Exercise – Semantic Document Structure
 
 Exercise – Semantic Document Sectioning
 
 [Back to Top](#calendar)
 
-## Day08
+## Day06
 
 HTML Page Navigation
 
 - DEMO pages-in-same-directory
 - DEMO pages-in different-directories
 - review exercise requirements/hints
-- review assignment requirements/hints
 
 Exercise – Page Navigation
 
 [Back to Top](#calendar)
 
+## Day07
+
+HTML Markup & Page Navigation Assessment
+
+- review assignment requirements/hints
+
+Assignment 01 – HTML Markup with Navigation
+Star Wars
+
+[Back to Top](#calendar)
+
+## Day08
+
+HTML Markup & Page Navigation Assessment
+
+- review assignment requirements/hints
+
+Assignment 01 – HTML Markup with Navigation
+Star Wars
+
+[Back to Top](#calendar)
+
 ## Day09
-
-HTML Page Navigation
-
-- review assignment requirements/hints
-
-Assignment 01 – HTML Markup with Navigation
-Star Wars
-
-[Back to Top](#calendar)
-
-## Day10
-
-HTML Page Navigation
-
-- review assignment requirements/hints
-
-Assignment 01 – HTML Markup with Navigation
-Star Wars
-
-[Back to Top](#calendar)
-
-## Day11
 
 CSS Intro
 
@@ -169,16 +152,15 @@ CSS Intro
 - css background-color property
 - css color property
 - css font-size property
-
 - review exercise requirements/hints
 
 Exercise – 
 
 [Back to Top](#calendar)
 
-## Day12
+## Day10
 
-CSS Selector Types
+CSS Selectors
 
 - DEMO selectors
 - POWERPOINT Selector Types
@@ -197,15 +179,47 @@ text-decoration, font-family properties
 
 [Back to Top](#calendar)
 
-## Day13
+## Day11
 
-CSS Cascade-Specificity-Inheritance
+Cascade & Specificity & Inheritance
 
 - DEMO specificity-coffee-cup
 - POWERPOINT Cascade-Specificity-Inheritance
 - review exercise requirements/hints
 
 Exercise – 
+
+[Back to Top](#calendar)
+
+## Day12
+
+Reset & Center Page Layout
+
+- DEMO center-page-layout
+- POWERPOINT Fixed Width Center Page Layout with Reset Styles
+- review exercise requirements/hints
+
+Exercise – 
+
+[Back to Top](#calendar)
+
+## Day13
+
+CSS Box Model
+
+- DEMO box-model
+- Chrome Dev Tools
+- POWERPOINT The Box Model
+- margin property
+- padding property
+- border property
+- border-width property
+- border-style property
+- border-color property
+- content width and height properties
+- review exercise requirements/hints
+
+Exercise – Read Documentation & Watch Videos
 
 [Back to Top](#calendar)
 
@@ -231,10 +245,8 @@ Exercise – Read Documentation & Watch Videos
 
 ## Day15
 
-CSS Reset & Center Page Layout
+CSS Selectors Assessment
 
-- DEMO center-page-layout
-- POWERPOINT Fixed Width Center Page Layout with Reset Styles
 - DEMO bbq-solid-red
 - review assignment requirements/hints
 
@@ -245,7 +257,7 @@ BBQ Menu
 
 ## Day16
 
-CSS Reset & Center Page Layout
+CSS Selectors Assessment
 
 - review assignment requirements/hints
 
@@ -368,7 +380,7 @@ Vertical Navigation Part
 
 ## Day25
 
-Styling Text, Images, and Navigation
+Styling Text, Images, and Navigation Assessment
 
 - review assignment requirements/hints
 
@@ -379,7 +391,7 @@ Succulents Shop
 
 ## Day26
 
-Styling Text, Images, and Navigation
+Styling Text, Images, and Navigation Assessment
 
 - review assignment requirements/hints
 
@@ -414,7 +426,7 @@ Pizza Truck
 
 ## Day29
 
-Styling Form Elements
+Styling Form Elements Assessment
 
 - review assignment requirements/hints
 
@@ -425,7 +437,7 @@ Pizza Truck
 
 ## Day30
 
-Styling Form Elements
+Styling Form Elements Assessment
 
 - review assignment requirements/hints
 
