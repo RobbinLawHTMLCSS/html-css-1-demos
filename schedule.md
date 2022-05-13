@@ -98,8 +98,10 @@ HTML Semantic Elements
 - clone new repo to local folder
 - DEMO document-structure
 - `<header>` and `<main>` and `<footer>`
+- `&copy;` and `<address>`
 - DEMO document-sectioning
 - `<nav>` and `<section>` and `<aside>` and `<article>`
+- `<dl>` and `<dt>` and `<dd>`
 - review exercise requirements/hints
 
 Exercise – Semantic Document Structure
