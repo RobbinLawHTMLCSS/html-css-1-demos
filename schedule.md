@@ -10,8 +10,8 @@
 |3||May17-[Day05](#day05)-HTML-Semantic-Elements||May19-[Day06](#day06)-HTML-Page-Navigation||
 |4||May24-[Day07](#day07)-A01||May26-[Day08](#day08)-A01-Due-Friday-23:59||
 |5||May31-[Day09](#day09)-CSS-Intro||Jun02-[Day10](#day10)-CSS-Selectors-Combinators||
-|6||Jun07-[Day11](#day11)-Cascade-Specificity-Inheritance||Jun09-[Day12](#day12)-Reset-Center-Page-Layout||
-|7||Jun14-[Day13](#day13)-CSS-Box-Model||Jun16-[Day14](#day14)-CSS-Box-Model||
+|6||Jun07-[Day11](#day11)-Cascade-Specificity-Inheritance||Jun09-[Day12](#day12)-CSS-Box-Model||
+|7||Jun14-[Day13](#day13)-CSS-Box-Model||Jun16-[Day14](#day14)-Reset-Center-Page-Layout||
 |8||Jun21-[Day15](#day15)-A02||Jun23-[Day16](#day16)-A02-Q01-Due-Friday-23:59||
 |9||Jun28-[Day17](#day17)-Flexbox||Jun30-[Day18](#day18)-Flexbox||
 |10||Jul05-[Day19](#day19)-Styling-Text||Jul05-[Day20](#day20)-Styling-Text||
@@ -195,13 +195,21 @@ Exercise –
 
 ## Day12
 
-Reset & Center Page Layout
+CSS Box Model
 
-- DEMO center-page-layout
-- POWERPOINT Fixed Width Center Page Layout with Reset Styles
+- DEMO box-model
+- Chrome Dev Tools
+- POWERPOINT The Box Model
+- margin property
+- padding property
+- border property
+- border-width property
+- border-style property
+- border-color property
+- content width and height properties
 - review exercise requirements/hints
 
-Exercise – 
+Exercise – Read Documentation & Watch Videos
 
 [Back to Top](#calendar)
 
@@ -227,21 +235,13 @@ Exercise – Read Documentation & Watch Videos
 
 ## Day14
 
-CSS Box Model
+Reset & Center Page Layout
 
-- DEMO box-model
-- Chrome Dev Tools
-- POWERPOINT The Box Model
-- margin property
-- padding property
-- border property
-- border-width property
-- border-style property
-- border-color property
-- content width and height properties
+- DEMO center-page-layout
+- POWERPOINT Fixed Width Center Page Layout with Reset Styles
 - review exercise requirements/hints
 
-Exercise – Read Documentation & Watch Videos
+Exercise – 
 
 [Back to Top](#calendar)
 
