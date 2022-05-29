@@ -13,31 +13,31 @@
         <section>
             <h2>What Is The Box Model</h2>
             <p>
-                In a document, each element is represented as a rectangular box. Determining the size, properties — like its color, background, borders aspect — and the position of these boxes is the goal of the rendering engine. In CSS, each of these rectangular boxes is described using the standard box model. This model describes the content of the space taken by an element. Each box has four edges: the margin edge, border edge, padding edge, and content edge.
+                In this section the behavior is the same with "box-sizing" set to content-box or border-box. Both the content width and the box width are 1503.2px. The box height is 66.32px = h2 height + largest margin + paragraph height = 27.6px + 19.92px + 18.8px. This is called "margin collapsing".
             </p>
         </section>
         <section class="margin-section">
             <h2>Margin</h2>
             <p>
-                The margin CSS property sets the margin for all four sides. It is a shorthand to avoid setting each side separately with the other margin properties: margin-top, margin-right, margin-bottom and margin-left. Negative values are also allowed.
+                In this section the behavior is the same with "box-sizing" set to content-box or border-box. Both the content width and the box width are 1483.2px. They are smaller than the previous section because of the margin left and right.
             </p>
         </section>
         <section class="border-section">
             <h2>Border</h2>
             <p>
-                The border CSS property is a shorthand property for setting the individual border property values in a single place in the style sheet. Border can be used to set the values for one or more of: border-width, border-style, border-color. Like all shorthand properties, a missing value for one of the longhand properties is set to the corresponding initial value. Also note that border-image, though not settable using this shorthand, is reset to its initial value, that is, none. This allows to use border to reset any border settings set earlier in the cascade. As the W3C intends to preserve this property in future level of the spec, it is recommended to use this method to reset border settings.
+                In this section the behavior is the same with "box-sizing" set to content-box or border-box. The content width is 1493.2px but the box width is 1493.2 + 2*5px = 1503.2px. This is due to the border.
             </p>
         </section>
         <section class="padding-section">
             <h2>Padding</h2>
             <p>
-                The padding property sets the padding space on all sides of an element. The padding area is the space between the content of the element and its border. Negative values are not allowed. The padding property is a shorthand to avoid setting each side separately (padding-top, padding-right, padding-bottom, padding-left).
+                In this section the behavior is the same with "box-sizing" set to content-box or border-box. The content width is 1483.2px but the box width is 1493.2px + 2*10px = 1503.2px. This is due to the padding.
             </p>
         </section>
         <section class="width-section">
             <h2>Width</h2>
             <p>
-                The width CSS property specifies the width of the content area of an element. The content area is inside the padding, border, and margin of the element. The min-width and max-width properties override width.
+                In this section the behavior is different. With "box-sizing" set to content-box, when setting the "width: 500px" means that the content width will be 500px, and the box width will be 500px + 2*10px + 2*5px = 530px. The box itself is placed in the "main" element according to the margin. With "box-sizing" set to border-box, when setting the "width: 500px" means that the box width will be 500px, and the content width will be 500px - 2*10px - 2*5px = 470px. This is very confusing. WE WILL ALWAYS USE BORDER-BOX, as overall it makes more sense to set the width of the box and not the content. Then the content will be auto sized according to the padding and border. In our future calculations we only need to think about the box width/height and the margins.
             </p>
         </section>
     </main>
