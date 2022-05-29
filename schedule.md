@@ -9,7 +9,7 @@
 |2||May10-[Day03](#day03)-HTML-Basics||May12-[Day04](#day04)-HTML-Basics||
 |3||May17-[Day05](#day05)-HTML-Semantic-Elements||May19-[Day06](#day06)-HTML-Page-Navigation||
 |4||May24-[Day07](#day07)-A01||May26-[Day08](#day08)-A01-Due-Friday-23:59||
-|5||May31-[Day09](#day09)-CSS-Intro||Jun02-[Day10](#day10)-CSS-Selectors||
+|5||May31-[Day09](#day09)-CSS-Intro||Jun02-[Day10](#day10)-CSS-Selectors-Combinators||
 |6||Jun07-[Day11](#day11)-Cascade-Specificity-Inheritance||Jun09-[Day12](#day12)-Reset-Center-Page-Layout||
 |7||Jun14-[Day13](#day13)-CSS-Box-Model||Jun16-[Day14](#day14)-CSS-Box-Model||
 |8||Jun21-[Day15](#day15)-A02||Jun23-[Day16](#day16)-A02-Q01-Due-Friday-23:59||
@@ -162,9 +162,9 @@ Exercise –
 
 ## Day10
 
-CSS Selectors
+CSS Selectors & Combinators
 
-- DEMO selectors
+- DEMO selectors-combinators
 - POWERPOINT Selector Types
 - html element selectors review
 - id selectors
