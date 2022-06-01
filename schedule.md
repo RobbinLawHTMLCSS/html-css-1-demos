@@ -156,7 +156,7 @@ CSS Intro
 - css font-size property
 - review exercise requirements/hints
 
-Exercise – 
+Exercise – Read Documentation on CSS
 
 [Back to Top](#calendar)
 
