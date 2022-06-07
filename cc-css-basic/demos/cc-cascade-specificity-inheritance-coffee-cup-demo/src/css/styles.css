@@ -1,9 +1,12 @@
+nav {
+	background-color: lightgrey;
+}
 /*
 	Use descendant selectors to be more precise; the following rule applies to any ul
 	elements that are descendants of nav elements
 */
 nav ul {
-	background-color: lightgrey;
+	background-color: blue;
 }
 
 /*
@@ -30,7 +33,7 @@ nav ul li a {
 	we are targeting a elements in the hover state (i.e. when the mouse cursor is over them)
 */
 nav ul li a:hover {
-	color: blue;
+	color: magenta;
 	font-weight: bold;
 }
 
@@ -52,4 +55,8 @@ ul.navigation a{
 	color: orange;
 	list-style: none;
     padding-left: 0;
+}
+
+#my-h2 {
+	color: cyan;
 }
