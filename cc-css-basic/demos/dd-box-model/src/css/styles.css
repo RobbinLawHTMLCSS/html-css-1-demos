@@ -21,6 +21,8 @@ h1 {
 }
 
 .width-section {
+	/* With box-sizing: content-box means the width is the content width */
+	/* With box-sizing: border-box means the width is the box width */
 	width: 500px;
 	margin: 20px;
 	padding: 10px;
