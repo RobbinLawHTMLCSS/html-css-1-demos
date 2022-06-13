@@ -200,13 +200,15 @@ CSS Box Model
 - DEMO box-model
 - Chrome Dev Tools
 - POWERPOINT The Box Model
+- box-sizing: content-box
+- box-sizing: border-box
 - margin property
 - padding property
 - border property
 - border-width property
 - border-style property
 - border-color property
-- content width and height properties
+- width and height properties
 - review exercise requirements/hints
 
 Exercise – Read Documentation & Watch Videos
@@ -215,18 +217,14 @@ Exercise – Read Documentation & Watch Videos
 
 ## Day13
 
-CSS Box Model
+CSS Display Property
 
-- DEMO box-model
+- DEMO display-property
 - Chrome Dev Tools
-- POWERPOINT The Box Model
-- margin property
-- padding property
-- border property
-- border-width property
-- border-style property
-- border-color property
-- content width and height properties
+- display: none;
+- display: inline;
+- display: block;
+- display: inline-block;
 - review exercise requirements/hints
 
 Exercise – Read Documentation & Watch Videos
@@ -239,6 +237,7 @@ Reset & Center Page Layout
 
 - DEMO center-page-layout
 - POWERPOINT Fixed Width Center Page Layout with Reset Styles
+- DEMO bbq-solid-red
 - review exercise requirements/hints
 
 Exercise – 
@@ -249,7 +248,6 @@ Exercise –
 
 CSS Selectors Assessment
 
-- DEMO bbq-solid-red
 - review assignment requirements/hints
 
 Assignment 02 – CSS Selectors
