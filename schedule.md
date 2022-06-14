@@ -11,7 +11,7 @@
 |4||May24-[Day07](#day07)-A01||May26-[Day08](#day08)-A01-Due-Friday-23:59||
 |5||May31-[Day09](#day09)-CSS-Intro||Jun02-[Day10](#day10)-CSS-Selectors-Combinators||
 |6||Jun07-[Day11](#day11)-Cascade-Specificity-Inheritance||Jun09-[Day12](#day12)-CSS-Box-Model||
-|7||Jun14-[Day13](#day13)-CSS-Box-Model||Jun16-[Day14](#day14)-Reset-Center-Page-Layout||
+|7||Jun14-[Day13](#day13)-CSS-Layout-Basics||Jun16-[Day14](#day14)-Reset-Center-Page-Layout||
 |8||Jun21-[Day15](#day15)-A02||Jun23-[Day16](#day16)-A02-Q01-Due-Friday-23:59||
 |9||Jun28-[Day17](#day17)-Flexbox||Jun30-[Day18](#day18)-Flexbox||
 |10||Jul05-[Day19](#day19)-Styling-Text||Jul05-[Day20](#day20)-Styling-Text||
@@ -189,7 +189,7 @@ Cascade & Specificity & Inheritance
 - POWERPOINT Cascade-Specificity-Inheritance
 - review exercise requirements/hints
 
-Exercise – 
+Exercise – Read Documentation & Watch Videos
 
 [Back to Top](#calendar)
 
@@ -217,11 +217,12 @@ Exercise – Read Documentation & Watch Videos
 
 ## Day13
 
-CSS Display Property
+CSS Layout Basics
 
-- DEMO display-property
+- DEMO css-layout-basics
 - Chrome Dev Tools
 - display: none;
+- visibility: hidden;
 - display: inline;
 - display: block;
 - display: inline-block;
@@ -240,7 +241,7 @@ Reset & Center Page Layout
 - DEMO bbq-solid-red
 - review exercise requirements/hints
 
-Exercise – 
+Exercise – Read Documentation & Watch Videos
 
 [Back to Top](#calendar)
 
