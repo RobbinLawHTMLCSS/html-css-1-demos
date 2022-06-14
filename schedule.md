@@ -225,7 +225,7 @@ CSS Layout Basics
 - visibility: hidden;
 - display: inline;
 - display: block;
-- display: inline-block;
+- display: inline-block; No Quiz Questions on this.
 - review exercise requirements/hints
 
 Exercise – Read Documentation & Watch Videos

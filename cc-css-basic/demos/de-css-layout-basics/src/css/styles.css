@@ -17,8 +17,10 @@ li {
 	margin: 30px;
 	border: 5px solid black;
 	padding: 10px;
-	/* display: inline; */
+	/* display: none; */
+	/* visibility: hidden; */
 	/* display: block; */
+	/* display: inline; */
 	/* display: inline-block; */
 }
 
@@ -26,7 +28,7 @@ ul {
 	list-style: none;
 	/* display: none; */
 	/* visibility: hidden; */
-	/* display: inline; */
 	/* display: block; */
+	/* display: inline; */
 	/* display: inline-block; */
 }
