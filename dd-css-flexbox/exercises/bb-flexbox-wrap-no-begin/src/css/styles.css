@@ -1,3 +1,7 @@
+* {
+	box-sizing: border-box;
+}
+
 body {
 	background-color: white;
 	text-align: center;
@@ -44,7 +48,7 @@ header nav ul {
 }
 
 /* Width Math 
-Total - margin - border - padding = leftover
+Total - margin = leftover
 
 */
 header nav ul li {
@@ -56,7 +60,7 @@ main {
 }
 
 /* Width Math 
-Total - margin - border - padding = leftover
+Total - margin = leftover
 
 */
 main section {

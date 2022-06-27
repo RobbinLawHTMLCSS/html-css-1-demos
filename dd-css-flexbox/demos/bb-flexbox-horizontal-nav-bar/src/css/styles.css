@@ -1,3 +1,7 @@
+* {
+	box-sizing: border-box;
+}
+
 body {
 	background-color: white;
 	text-align: center;
@@ -44,13 +48,13 @@ header nav ul {
 	display: flex;
 }
 
-/* Width Math 
-Total - margin - border - padding = leftover
-960 - (4 * 15) - (6 * 2) - 0
-960 - 60 - 12 = 888
-	888/3 = 296 */
+/* Width Math for nav bar
+Total - margin = leftover
+960 - (4 * 15)
+960 - 60 = 900
+	900/3 = 300 */
 header nav ul li {
-	width: 296px;
+	width: 300px;
 	margin-left: 15px;
 	border: 2px solid #333333;
 	text-align: center;
@@ -60,13 +64,13 @@ main {
 	display: flex;
 }
 
-/* Width Math 
-Total - margin - border - padding = leftover
-960 - (2 * 15) - (2 * 2) - (2 * 15)
-960 - 30 - 4 - 30 = 896
-	896/1 = 896 */
+/* Width Math for section
+Total - margin = leftover
+960 - (2 * 15)
+960 - 30 = 930
+	930/1 = 930 */
 main section {
-	width: 896px;
+	width: 930px;
 	border: 2px solid #333333;
 	margin: 15px 0px 15px 15px;
 	padding: 15px;
