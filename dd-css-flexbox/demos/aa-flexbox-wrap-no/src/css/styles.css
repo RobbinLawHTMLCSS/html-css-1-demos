@@ -42,9 +42,9 @@ Total - margin = leftover
 960 - (4 * 10)
 960 - 40 = 920
 	920/3 = 306.66 */
-/* main div {
+main div {
     width: 306.66px;
-} */
+}
 
 /* Width Math WITH padding and border on main (parent of div's)
 Total - parent.padding - parent.border - margin = leftover
@@ -54,8 +54,9 @@ Total - parent.padding - parent.border - margin = leftover
 /* main {
     padding: 20px;
     border: 5px solid green;
-}
-main div {
+} */
+
+/* main div {
     width: 290px;
 } */
 

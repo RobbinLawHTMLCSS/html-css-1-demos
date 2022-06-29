@@ -48,13 +48,20 @@ header nav ul {
 	display: flex;
 }
 
-/* Width Math for nav bar
+/* Width Math for nav bar with 3 items
 Total - margin = leftover
 960 - (4 * 15)
 960 - 60 = 900
-	900/3 = 300 */
+900/3 = 300 
+
+Width Math for nav bar with 4 items
+960 - (5 * 15)
+960 - 75 = 885
+	885/4 = 221.25*/
+
 header nav ul li {
 	width: 300px;
+	/* width: 221.25px; */
 	margin-left: 15px;
 	border: 2px solid #333333;
 	text-align: center;
@@ -69,6 +76,7 @@ Total - margin = leftover
 960 - (2 * 15)
 960 - 30 = 930
 	930/1 = 930 */
+	
 main section {
 	width: 930px;
 	border: 2px solid #333333;
