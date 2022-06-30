@@ -1,3 +1,7 @@
+* {
+	box-sizing: border-box;
+}
+
 body {
     background-color: white;
     text-align: center;
@@ -43,28 +47,28 @@ div.grey-paint {
 }
 
 /* Width Math for red and blue boxes on first row
-Total - margin - border - padding = leftover
-960 - (3 * 10) - (4 * 2) - 0
-960 - 30 - 8 = 922
-	922/2 = 461 */
+Total - margin = leftover
+960 - (3 * 10)
+960 - 30 = 930
+	930/2 = 465 */
 div.red-paint, 
 div.blue-paint {
-    width: 461px;
+    width: 465px;
 }
 
 /* Width Math for yellow box on second row
-Total - margin - border - padding = leftover
-960 - (2 * 10) - (2 * 2) - 0
-960 - 20 - 4 = 936
-	936/1 = 936 */
+Total - margin = leftover
+960 - (2 * 10)
+960 - 20 = 940
+	940/1 = 940 */
 div.yellow-paint {
-    width: 936px;
+    width: 940px;
     /* margin-bottom: 10px; */
 }
 
 div.orange-paint, 
 div.grey-paint {
-    width: 461px;
+    width: 465px;
     margin-bottom: 10px;
 }
 

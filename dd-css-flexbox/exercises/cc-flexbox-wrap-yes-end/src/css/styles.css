@@ -1,3 +1,7 @@
+* {
+	box-sizing: border-box;
+}
+
 body {
 	font-size: 100%;
 	line-height: 1.5;
@@ -54,13 +58,13 @@ ul,
 }
 
 /* Math 
-Total - margin - border - padding = leftover
-960 - (3 * 12) - (8 * 2) - 0
-960 - 36 - 16 = 908
-	908/4 = 227
+Total - margin = leftover
+960 - (3 * 12)
+960 - 36 = 924
+	924/4 = 231
 */
 li {
-	width: 227px;
+	width: 231px;
 	margin-right: 12px;
 }
 
@@ -73,25 +77,25 @@ section header {
 }
 
 /* Math 
-Total - sectionborder - divmargin - divborder - divpadding = leftover
-960 - (2 * 2) - (4 * 26) - (6 * 2) - (6 * 12)
-960 - 4 - 104 - 12 - 72 = 768
-	768/3 = 256
+Total - sectionborder - divmargin = leftover
+960 - (2 * 2) - (4 * 26)
+960 - 4 - 104 = 852
+	852/3 = 284
 */
 .section-one-columns div {
-	width: 256px;
+	width: 284px;
 	padding: 12px;
 	margin-left: 26px;
 }
 
 /* Math 
-Total - sectionborder - divmargin - divborder - divpadding = leftover
-960 - (2 * 2) - (3 * 26) - (4 * 2) - (4 * 12)
-960 - 4 - 78 - 8 - 48 = 822
-	822/2 = 411
+Total - sectionborder - divmargin = leftover
+960 - (2 * 2) - (3 * 26)
+960 - 4 - 78 = 878
+	878/2 = 439
 */
 .section-two-columns div {
-	width: 411px;
+	width: 439px;
 	padding: 12px;
 	margin-left: 26px;
 }
