@@ -1,8 +1,5 @@
-Assignment 2
-Weight: 15%
-
 Introduction
-In this assignment you are going to create a center page layout and duplicate the layout.jpg file that is provided for you. You are required to build a header with navigation boxes and two sections with columns. Each area will test your ability and understanding of the CSS box model, selectors, the flex container, flex-wrap, and the concept of spacing with margins and padding.Make sure to use the browser developer tools to check your sizing.
+In this exercise you are going to create a center page layout and duplicate the layout.jpg file that is provided for you. You are required to build a header with navigation boxes and two sections with columns. Each area will test your ability and understanding of the CSS box model, selectors, the flex container, flex-wrap, and the concept of spacing with margins and padding.Make sure to use the browser developer tools to check your sizing.
 
 Site Build
 Use your 960px center page layout framework for the assignment. You have been provided with the markup needed for the assignment but you may add class names to help you target specific elements.
