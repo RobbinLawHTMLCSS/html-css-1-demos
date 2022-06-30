@@ -5,6 +5,10 @@
 body {
 	font-size: 100%;
 	line-height: 1.5;
+	background-color: #f2f2f2;
+	padding: 26px 0;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: #6a6a6a;
 }
 
 .container {
