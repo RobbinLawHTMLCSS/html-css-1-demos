@@ -1,8 +1,4 @@
-(Lab) Styling Text
-Styling Text Lab
-Weight: 5%
-
-This Lab will assess your understanding of:
+This exercise will assess your understanding of:
 1. how to style text using CSS;
 2. implementing custom fonts via Google Fonts;
 3. how to get colours, measurements, and font sizes from a Photoshop document (.psd).
