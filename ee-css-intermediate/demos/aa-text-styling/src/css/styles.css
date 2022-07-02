@@ -8,9 +8,12 @@ body {
 	font-size: 100%;
 	line-height: 1.5;
 	text-align: center;
-	/* Use web font Lato*/
-	font-family: 'Lato';
-	/* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+	/* Default font-family is Times New Roman */
+	/* font-family: Times New Roman, Times, serif; */
+	/* Another font that is loaded on the machine */
+	/* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+	/* A font from google-fonts not loaded on the machine */
+	/* font-family: Lato; */
 }
 
 /* Typography */
