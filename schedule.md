@@ -14,11 +14,11 @@
 |7||Jun14-[Day13](#day13)-CSS-Layout-Basics||Jun16-[Day14](#day14)-Reset-Center-Page-Layout||
 |8||Jun21-[Day15](#day15)-A02||Jun23-[Day16](#day16)-A02-Q01-Due-Friday-23:59||
 |9||Jun28-[Day17](#day17)-Flexbox||Jun30-[Day18](#day18)-Flexbox||
-|10||Jul05-[Day19](#day19)-Styling-Text||Jul05-[Day20](#day20)-Styling-Text||
-|11||Jul12-[Day21](#day21)-Image-Formats||Jul14-[Day22](#day22)-Image-Formats||
-|12||Jul19-[Day23](#day23)-Styling-Navigation||Jul21-[Day24](#day24)-Styling-Navigation||
+|10||Jul05-[Day19](#day19)-Styling-Text||Jul05-[Day20](#day20)-Image-Formats||
+|11||Jul12-[Day21](#day21)-Image-Formats||Jul14-[Day22](#day22)-Styling-Navigation-Horizontal||
+|12||Jul19-[Day23](#day23)-Styling-Navigation-Vertical||Jul21-[Day24](#day24)-A03||
 |13||Jul26-[Day25](#day25)-A03||Jul28-[Day26](#day26)-A03-Due-Friday-23:59||
-|14||Aug02-[Day27](#day27)-Styling-Forms||Aug04-[Day28](#day28)-Styling-Forms||
+|14||Aug02-[Day27](#day27)-Styling-Forms||Aug04-[Day28](#day28)-A04||
 |15||Aug09-[Day29](#day29)-A04||Aug11-[Day30](#day30)-A04-Q02-Due-Friday-23:59||
 
 
@@ -314,17 +314,6 @@ Novels
 
 ## Day20
 
-Styling Text
-
-- review exercise requirements/hints
-
-Exercise - Text Styling
-Novels
-
-[Back to Top](#calendar)
-
-## Day21
-
 Web Image Formats & Background Property
 
 - DEMO background-images Yoga
@@ -334,24 +323,22 @@ Web Image Formats & Background Property
 - background-color: rgba();
 - review exercise requirements/hints
 
-Exercise – Image Formats
+Exercise - Build Yoga Web site with assets from Photoshop
+
+[Back to Top](#calendar)
+
+## Day21
+
+Web Image Formats & Background Property
+
+- review exercise requirements/hints
+
+Exercise - Build Yoga Web site with assets from Photoshop
+
 
 [Back to Top](#calendar)
 
 ## Day22
-
-Web Image Formats & Background Property
-
-- DEMO background-images Yoga
-- Build Yoga Web site with assets from photoshop
-- grabbing images from wireframe for exercise
-- review exercise requirements/hints
-
-Exercise – Image Formats
-
-[Back to Top](#calendar)
-
-## Day23
 
 Styling Navigation Elements
 
@@ -365,7 +352,7 @@ Horizontal Navigation Part
 
 [Back to Top](#calendar)
 
-## Day24
+## Day23
 
 Styling Navigation Elements
 
@@ -376,6 +363,17 @@ Styling Navigation Elements
 Exercise – Styling Navigation
 Steeped Leaf
 Vertical Navigation Part
+
+[Back to Top](#calendar)
+
+## Day24
+
+Styling Text, Images, and Navigation Assessment
+
+- review assignment requirements/hints
+
+Assignment 03 – Styling Text, Images, Navigation
+Succulents Shop
 
 [Back to Top](#calendar)
 
@@ -415,9 +413,8 @@ Pizza Truck
 
 ## Day28
 
-Styling Form Elements
+Styling Form Elements Assessment
 
-- form styling
 - review assignment requirements/hints
 
 Assignment 04 – Styling Forms
