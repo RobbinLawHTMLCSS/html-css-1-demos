@@ -317,13 +317,13 @@ Novels
 Web Image Formats & Background Property
 
 - DEMO background-images Yoga
-- grabbing images from photoshop files
 - background-image:
 - background-repeat:
 - background-color: rgba();
 - review exercise requirements/hints
 
-Exercise - Build Yoga Web site with assets from Photoshop
+Exercise - Styling Images
+Build Yoga Web site with assets from Photoshop
 
 [Back to Top](#calendar)
 
@@ -331,10 +331,12 @@ Exercise - Build Yoga Web site with assets from Photoshop
 
 Web Image Formats & Background Property
 
+- DEMO background-images Yoga
+- grabbing images from photoshop files
 - review exercise requirements/hints
 
-Exercise - Build Yoga Web site with assets from Photoshop
-
+Exercise - Styling Images
+Build Yoga Web site with assets from Photoshop
 
 [Back to Top](#calendar)
 
