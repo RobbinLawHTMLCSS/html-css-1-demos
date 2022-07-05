@@ -303,8 +303,8 @@ Styling Text
 
 - DEMO text-styling City of Edmonton Activities
 - google fonts
-- grabbing font families from photoshop files
-- grabbing text sizes from photoshop files
+- grabbing font families from photoshop files using the Novels wireframe
+- grabbing text sizes from photoshop files using the Novels wireframe
 - review exercise requirements/hints
 
 Exercise - Text Styling
@@ -326,7 +326,7 @@ Novels
 
 ## Day21
 
-Web Images
+Background Images
 
 - DEMO background-images Yoga
 - background-image:
@@ -334,7 +334,7 @@ Web Images
 - background-color: rgba();
 - review exercise requirements/hints
 
-Exercise - Web Images
+Exercise - Background Images
 Build Yoga Web site with assets from Photoshop
 
 [Back to Top](#calendar)
