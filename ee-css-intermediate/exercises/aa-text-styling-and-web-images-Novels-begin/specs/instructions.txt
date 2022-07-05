@@ -8,12 +8,9 @@ Build Steps
 
 Setup
 1. Download all of the provided files. Open your Photoshop document (wireframe.psd).
-2. Using your Layers Panel [ Window > Layers ], find all of the icons that you need. Using the most appropriate file format, save/export them to your img folder.
-Hint: your icons should have transparent backgrounds so they should be .png.
-NOTE: This has already been done. All the icons are in the img folder.
 
 Typography
-3. Find and implement the required Google Fonts, including the appropriate weights and styles. These include:
+2. Find and implement the required Google Fonts, including the appropriate weights and styles. These include:
     Libre Baskerville: 400 weight (regular); 700 weight (bold).
     Libre Franklin: 400 weight (regular); italic.
 NOTE: This has also already been done. You are given all of the HTML which includes
@@ -25,29 +22,31 @@ Set the font-family property for all of the typographic elements on your page.
 Note: Libre Baskerville is a serif font; Libre Franklin is a sans-serif font.
 
 
-4. Using the Eyedropper Tool [ I ] and the Color Picker in Photoshop, determine the background colour for the body element.
+3. Using the Eyedropper Tool [ I ] and the Color Picker in Photoshop, determine the background colour for the body element.
 
 
-5. Using the Type Tool [ T ] in Photoshop, determine the font size for each typographic element.
+4. Using the Type Tool [ T ] in Photoshop, determine the font size for each typographic element.
 
 
-6. Using the Type Tool [ T ] in Photoshop, determine the font colour for each typographic element.
+5. Using the Type Tool [ T ] in Photoshop, determine the font colour for each typographic element.
 
 
-7. Set the font-style property for any typographic elements that need to be italic.
+6. Set the font-style property for any typographic elements that need to be italic.
 
 
-8. Set the font-weight property for any typographic elements that need to be bold.
+7. Set the font-weight property for any typographic elements that need to be bold.
 
 
-9. On your body, center all of your typographic and inline elements by setting the text-align property. You will also need to do this for your .byline class and your footer.
+8. On your body, center all of your typographic and inline elements by setting the text-align property. You will also need to do this for your .byline class and your footer.
 
 
-10. Set the text-align property for all of your paragraph elements to left.
+9. Set the text-align property for all of your paragraph elements to left.
 
+10. Using your Layers Panel [ Window > Layers ], find all of the icons that you need. Using the most appropriate file format, save/export them to your img folder.
+Hint: your icons should have transparent backgrounds so they should be .png.
+NOTE: This has already been done. All the icons are in the img folder.
 
 Layout
-
 
 11. Using CSS, apply the following distances:
 
@@ -60,6 +59,5 @@ Layout
 * 48 pixels of space between the top and bottom of your .intro paragraph;
 * 24 pixels of space between the top and bottom of all images; and
 * 96 pixels of space between the main and footer elements.
-
 
 You can double-check these distances in Photoshop using the Ruler Tool [ I ].
