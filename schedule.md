@@ -303,9 +303,9 @@ Styling Text
 
 - DEMO text-styling City of Edmonton Activities
 - google fonts
-- using the color picker tool to get background colors using the Novels wire-frame
+- using the color picker tool to get the body background color using the Novels wire-frame
 - grabbing font families from Photo Shop files using the Novels wire-frame
-- grabbing text sizes from Photo Shop files using the Novels wire-frame
+- grabbing text sizes and line-heights from Photo Shop files using the Novels wire-frame
 - grabbing text colors from Photo Shop files using the Novels wire-frame
 - review exercise requirements/hints
 
@@ -319,6 +319,7 @@ Novels
 Web Images
 
 - grabbing images from Photo Shop files using the Novels wire-frame
+- using the ruler tool to measure rough distances for margin, padding, and borders from Photo Shop files using the Novels wire-frame
 - review exercise requirements/hints
 
 Exercise - Web Images
