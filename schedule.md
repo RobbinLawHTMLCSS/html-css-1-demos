@@ -301,7 +301,7 @@ Page Layout with Lorem Content
 
 Styling Text
 
-- DEMO text-styling City of Edmonton Activities
+- DEMO text-styling CITY OF EDMONTON ACTIVITIES
 - google fonts
 - With the NOVELS wire-frame Photo-Shop(psd) file:
   - using the color picker tool to get the body background color
@@ -337,8 +337,7 @@ Background Images
 - background-color: rgba();
 - review exercise requirements/hints
 
-Exercise - Background Images
-Build Yoga Web site with assets from Photoshop
+Exercise - Background Images - YOGA
 
 [Back to Top](#calendar)
 
@@ -346,13 +345,11 @@ Build Yoga Web site with assets from Photoshop
 
 Styling Navigation Elements
 
-- DEMO navigation Hawaii
+- DEMO Horizontal navigation HAWAII
 - horizontal navigation styling with flexbox
 - review exercise requirements/hints
 
-Exercise – Styling Navigation
-Steeped Leaf
-Horizontal Navigation Part
+Exercise – Styling Navigation - Horizontal Navigation Part - STEEPED LEAF
 
 [Back to Top](#calendar)
 
@@ -360,13 +357,10 @@ Horizontal Navigation Part
 
 Styling Navigation Elements
 
-- DEMO navigation Hawaii
-- vertical navigation styling
+- DEMO vertical navigation HAWAII
 - review exercise requirements/hints
 
-Exercise – Styling Navigation
-Steeped Leaf
-Vertical Navigation Part
+Exercise – Styling Navigation - Vertical Navigation Part - STEEPED LEAF
 
 [Back to Top](#calendar)
 
