@@ -310,8 +310,7 @@ Styling Text
   - grabbing text colors
 - review exercise requirements/hints
 
-Exercise - Text Styling
-NOVELS
+Exercise - Text Styling - NOVELS
 
 [Back to Top](#calendar)
 
@@ -324,8 +323,7 @@ Web Images
   - using the ruler tool to measure rough distances for margin, padding, and borders
 - review exercise requirements/hints
 
-Exercise - Web Images
-NOVELS
+Exercise - Web Images - NOVELS
 
 [Back to Top](#calendar)
 
