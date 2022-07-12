@@ -319,7 +319,7 @@ Exercise - Text Styling - NOVELS
 Web Images
 
 - With the NOVELS wire-frame Photo-Shop(psd) file:
-  - grabbing images
+  - grabbing images that are rectangular
   - using the ruler tool to measure rough distances for margin, padding, and borders
 - review exercise requirements/hints
 
@@ -328,6 +328,21 @@ Exercise - Web Images - NOVELS
 [Back to Top](#calendar)
 
 ## Day21
+
+Background Images
+
+- DEMO background-images Yoga
+- grabbing odd shaped images with transparent backgrounds
+- background-image:
+- background-repeat:
+- background-color: rgba();
+- review exercise requirements/hints
+
+Exercise - Background Images - YOGA
+
+[Back to Top](#calendar)
+
+## Day22
 
 Background Images
 
@@ -341,7 +356,7 @@ Exercise - Background Images - YOGA
 
 [Back to Top](#calendar)
 
-## Day22
+## Day23
 
 Styling Navigation Elements
 
@@ -353,7 +368,7 @@ Exercise – Styling Navigation - Horizontal Navigation Part - STEEPED LEAF
 
 [Back to Top](#calendar)
 
-## Day23
+## Day24
 
 Styling Navigation Elements
 
@@ -361,17 +376,6 @@ Styling Navigation Elements
 - review exercise requirements/hints
 
 Exercise – Styling Navigation - Vertical Navigation Part - STEEPED LEAF
-
-[Back to Top](#calendar)
-
-## Day24
-
-Styling Text, Images, and Navigation Assessment
-
-- review assignment requirements/hints
-
-Assignment 03 – Styling Text, Images, Navigation
-Succulents Shop
 
 [Back to Top](#calendar)
 
