@@ -319,7 +319,7 @@ Exercise - Text Styling - NOVELS
 Web Images
 
 - With the NOVELS wire-frame Photo-Shop(psd) file:
-  - grabbing images that are rectangular
+  - grabbing images that are rectangular from layers (ctrl-click)
   - using the ruler tool to measure rough distances for margin, padding, and borders
 - review exercise requirements/hints
 
@@ -332,7 +332,8 @@ Exercise - Web Images - NOVELS
 Background Images
 
 - DEMO background-images Yoga
-- grabbing odd shaped images with transparent backgrounds
+- grabbing odd shaped images with transparent backgrounds from layers (ctrl-click)
+- grabbing round images with transparency using the elliptical marquee tool
 - background-image:
 - background-repeat:
 - background-color: rgba();
@@ -344,21 +345,19 @@ Exercise - Background Images - YOGA
 
 ## Day22
 
-Background Images
+Web Images Review
 
 - DEMO background-images Yoga
-- background-image:
-- background-repeat:
-- background-color: rgba();
+- review different methods of grabbing images from a wire-frame
 - review exercise requirements/hints
 
-Exercise - Background Images - YOGA
+Exercise - Web Images - YOGA
 
 [Back to Top](#calendar)
 
 ## Day23
 
-Styling Navigation Elements
+Styling Horizontal Navigation Elements
 
 - DEMO Horizontal navigation HAWAII
 - horizontal navigation styling with flexbox
@@ -370,7 +369,7 @@ Exercise – Styling Navigation - Horizontal Navigation Part - STEEPED LEAF
 
 ## Day24
 
-Styling Navigation Elements
+Styling Vertical Navigation Elements
 
 - DEMO vertical navigation HAWAII
 - review exercise requirements/hints
@@ -385,8 +384,7 @@ Styling Text, Images, and Navigation Assessment
 
 - review assignment requirements/hints
 
-Assignment 03 – Styling Text, Images, Navigation
-Succulents Shop
+Assignment 03 – Styling Text, Images, Navigation - SUCCULENTS SHOP
 
 [Back to Top](#calendar)
 
@@ -396,8 +394,7 @@ Styling Text, Images, and Navigation Assessment
 
 - review assignment requirements/hints
 
-Assignment 03 – Styling Text, Images, Navigation
-Succulents Shop
+Assignment 03 – Styling Text, Images, Navigation - SUCCULENTS SHOP
 
 [Back to Top](#calendar)
 
@@ -408,8 +405,7 @@ Styling Form Elements
 - form styling
 - review assignment requirements/hints
 
-Assignment 04 – Styling Forms
-Pizza Truck
+Assignment 04 – Styling Forms - PIZZA TRUCK
 
 [Back to Top](#calendar)
 
@@ -419,8 +415,7 @@ Styling Form Elements Assessment
 
 - review assignment requirements/hints
 
-Assignment 04 – Styling Forms
-Pizza Truck
+Assignment 04 – Styling Forms - PIZZA TRUCK
 
 [Back to Top](#calendar)
 
@@ -430,8 +425,7 @@ Styling Form Elements Assessment
 
 - review assignment requirements/hints
 
-Assignment 04 – Styling Forms
-Pizza Truck
+Assignment 04 – Styling Forms - PIZZA TRUCK
 
 [Back to Top](#calendar)
 
@@ -441,8 +435,7 @@ Styling Form Elements Assessment
 
 - review assignment requirements/hints
 
-Assignment 04 – Styling Forms
-Pizza Truck
+Assignment 04 – Styling Forms - PIZZA TRUCK
 
 Quiz 2
 
