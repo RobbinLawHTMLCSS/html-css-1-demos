@@ -14,9 +14,9 @@
 |7||Jun14-[Day13](#day13)-CSS-Layout-Basics||Jun16-[Day14](#day14)-Reset-Center-Page-Layout||
 |8||Jun21-[Day15](#day15)-A02||Jun23-[Day16](#day16)-A02-Q01-Due-Friday-23:59||
 |9||Jun28-[Day17](#day17)-Flexbox||Jun30-[Day18](#day18)-Flexbox||
-|10||Jul05-[Day19](#day19)-Styling-Text||Jul05-[Day20](#day20)-Web Images||
-|11||Jul12-[Day21](#day21)-Web Images||Jul14-[Day22](#day22)-Styling-Navigation-Horizontal||
-|12||Jul19-[Day23](#day23)-Styling-Navigation-Vertical||Jul21-[Day24](#day24)-A03||
+|10||Jul05-[Day19](#day19)-Styling-Text||Jul05-[Day20](#day20)-Web-Images||
+|11||Jul12-[Day21](#day21)-Background-Images||Jul14-[Day22](#day22)-Web-Images-Review||
+|12||Jul19-[Day23](#day23)-Styling-Navigation-Horizontal||Jul21-[Day24](#day24)-Styling-Navigation-Vertical||
 |13||Jul26-[Day25](#day25)-A03||Jul28-[Day26](#day26)-A03-Due-Friday-23:59||
 |14||Aug02-[Day27](#day27)-Styling-Forms||Aug04-[Day28](#day28)-A04||
 |15||Aug09-[Day29](#day29)-A04||Aug11-[Day30](#day30)-A04-Q02-Due-Friday-23:59||
