@@ -1,3 +1,7 @@
+* {
+	box-sizing: border-box;
+}
+
 body {
 	background-color: white;
 	font-family: 'Raleway', sans-serif;
@@ -76,17 +80,18 @@ header nav ul li a:hover {
 
 .banner .left-column {
 	/* from photoshop left-column width is 578px */
-	/* from photoshop left and right padding is 82px * 2 = 164px */
-	/* 578px - 164px padding = 414px content width*/
-	width: 414px;
+	/* because we are using border-box not content-box our width is 578px */
+	width: 578px;
+	/* from photoshop left and right padding is 82px */
 	/* photoshop measurement from bottom of header to top of green bar is 175px */
-	/* .banner h2 line-height is 54 px and margin-bottom is 36px = 90px total */
+	/* .banner h2 line-height is 54 px and the margin-bottom is measured to be approximately 36px = 90px total */
 	/* padding-top is 175px - 90px = 85px */
 	padding: 85px 82px 0px 82px;
 	text-align: center;
 }
 
 .banner .left-column .bar {
+	/* 578px - 82px padding - 82px padding = 414px for .bar width*/
 	width: 414px;
 	height: 8px;
 	margin-bottom: 36px;
