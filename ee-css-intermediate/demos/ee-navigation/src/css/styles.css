@@ -30,7 +30,7 @@ header a img {
 }
 /* position the nav bar to be away from the logo as per photoshop measurement */
 header nav {
-	margin-left: 210px;
+	margin-left: 200px;
 }
 /* The ul will be a flex container */
 /* the children will be the ul li's */
