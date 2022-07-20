@@ -15,7 +15,7 @@ body {
 	width:960px;
 }
 
-/* ********************* header section ********************* */
+/* **** header section **** */
 
 /* The header will be a flex container. */
 /* the children will be the anchor and nav */
@@ -55,7 +55,7 @@ header nav ul li a:hover {
 	border-bottom: 2px solid #abddd5;
 }
 
-/* ********************* banner section ********************* */
+/* **** banner section **** */
 
 .banner {
 	font-size: 18px;
@@ -104,7 +104,7 @@ header nav ul li a:hover {
 	width: 382px;
 	/* make padding-top same as left-column  */
 	padding: 85px 0px 0px 0px;
-	/* add a background color with opacity */
+	/* add a background color with alpha 0 = transparent, 1 = opaque (no transparency) */
 	background-color: rgba( 171, 221, 213, 0.4);
 	text-align: center;
 }
