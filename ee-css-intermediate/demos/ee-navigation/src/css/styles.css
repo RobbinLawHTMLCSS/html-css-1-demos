@@ -9,7 +9,8 @@ body {
 	font-size: 100%;
 	line-height: 1.5;
 }
- 
+
+/* center page layout */
 .container {
 	margin:0 auto;
 	width:960px;
@@ -18,7 +19,7 @@ body {
 /* **** header section **** */
 
 /* The header will be a flex container. */
-/* the children will be the anchor and nav */
+/* the children (flex items) will be the anchor and nav */
 /* the anchor and nav elements will be arranged horizontally */
 header {
 	background-color: #028568;
@@ -33,7 +34,7 @@ header nav {
 	margin-left: 200px;
 }
 /* The ul will be a flex container */
-/* the children will be the ul li's */
+/* the children (flex items) will be the ul li's */
 /* the li elements will be arranged horizontally */
 header nav ul {
 	display: flex;
@@ -50,7 +51,7 @@ header nav ul li a {
 	text-decoration: none;
 	color: #f1f7f6;
 }
-/* add the hover effect */
+/* add the hover pseudo class */
 header nav ul li a:hover {
 	border-bottom: 2px solid #abddd5;
 }
