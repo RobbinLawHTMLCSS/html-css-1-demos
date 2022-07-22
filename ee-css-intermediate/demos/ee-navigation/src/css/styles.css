@@ -16,7 +16,7 @@ body {
 	width:960px;
 }
 
-/* **** header section **** */
+/* **** header **** */
 
 /* The header will be a flex container. */
 /* the children (flex items) will be the anchor and nav */
@@ -79,6 +79,8 @@ header nav ul li a:hover {
 	margin-bottom: 36px;
 }
 
+/* **** left-column banner div **** */
+
 .banner .left-column {
 	/* from photoshop left-column width is 578px */
 	/* because we are using border-box not content-box our width is 578px */
@@ -98,6 +100,8 @@ header nav ul li a:hover {
 	margin-bottom: 36px;
 	background-color: #abddd5;
 }
+
+/* **** right-column banner div **** */
 
 .banner .right-column {
 	/* no need for left and right padding as all text is centered */
