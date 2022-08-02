@@ -411,8 +411,9 @@ Assignment 04 – Styling Forms - PIZZA TRUCK
 
 ## Day28
 
-Styling Form Elements Assessment
+Styling Form Elements
 
+- form styling
 - review assignment requirements/hints
 
 Assignment 04 – Styling Forms - PIZZA TRUCK
