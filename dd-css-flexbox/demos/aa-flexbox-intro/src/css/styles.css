@@ -7,7 +7,7 @@ body {
 	text-align: center;
 }
 
-#center-page-container {
+.center-page-container {
 	background-color: lightgrey;
 	width: 480px;
 	margin: 0 auto;
