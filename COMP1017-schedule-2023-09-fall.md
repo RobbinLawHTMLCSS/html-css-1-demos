@@ -10,19 +10,9 @@
 
 |Assessment|via|Due 11:59 PM Friday|%|
 |:-:|:-:|:-:|:-:|
-|L1 Console, DOM Access, Netlify|GitHub|Week 2|5
-|L2 Functions|GitHub|Week 3|5
-|L3 Events|GitHub|Week 4|5
-|L4 Forms with Validation, Decisions|GitHub|Week 6|5
-|A1 Dom Access, Functions, Events, Decisions, Forms: Cheeper App|GitHub|Week 7|10
-|L5 Loops, Arrays|GitHub|Week 10|5
-|Q5 Timers, DOM API|Moodle|Week 11|5
-|L6 Fetch API with .forEach() and .map()|GitHub|Week 11|5
-|Q6 Fetch API|Moodle|Week 13|5
-|A2 Loops, Arrays, Fetch API: Ted Talks Search Filter App|GitHub|Week 12|10
-|L7 ES Modules, npm, json, 3d party packages|GitHub|Week 13|5
-|L8 Classes, Objects|GitHub|Week 14|5
-|A3 Dictionary App|GitHub|Week 15|10
+|L1 HTML Basics|Netlify & Moodle|Week 2|5
+|L2 HTML Structure & Navigation|Netlify & Moodle|Week 3|5
+
 |Total|||100|
 
 ## Calendar
