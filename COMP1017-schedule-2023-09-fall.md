@@ -10,8 +10,8 @@
 
 |Assessment|via|Due 11:59 PM Friday|%|
 |:-:|:-:|:-:|:-:|
-|L1 HTML Basics|Netlify/Moodle|Week 2|5|
-|L2 HTML Doc Structure|Netlify/Moodle|Week 3|5|
+|L1 HTML Basics|Netlify/Moodle|Week 3|5|
+|L2 HTML Doc Structure|Netlify/Moodle|Week 4|5|
 |A1 HTML Basics/Doc Structure/Navigation|Netlify/Moodle|Week 5|15|
 |L3 CSS Basics|Netlify/Moodle|Week 6|5|
 |L4 Flex Box |Netlify/Moodle|Week 8|5|
