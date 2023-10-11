@@ -3,28 +3,28 @@ body {
 	background-color: black;
   }
 
-  /* . is for classes */
-  .primary-heading {
-	color: blue;
-  }
+/* . is for classes */
+.primary-heading {
+  color: blue;
+}
 
-  /* # is for IDs */
-  #welcome {
-	background-color: #f4f4f4;
-  }
+/* # is for IDs */
+#welcome {
+  background-color: #f4f4f4;
+}
 
-  /* Multiple Selectors */
-  #welcome, #about {
+/* Multiple Selectors */
+#welcome, #about {
   border-width: 10px;
-	border-style: solid;
-	border-color: green;
-  }
+  border-style: solid;
+  border-color: green;
+}
 
-  /* Decendant Selectors */
-  #welcome p {
-	font-size: 30px;
-  }
+/* Decendant Selectors */
+#welcome p {
+  font-size: 30px;
+}
 
-  #about {
-	color: white;
-  }
+#about {
+  color: white;
+}
