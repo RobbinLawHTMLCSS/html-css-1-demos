@@ -37,6 +37,10 @@ nav ul li a:hover {
 	font-weight: bold;
 }
 
+nav ul li a:hover {
+	color: blue;
+}
+
 footer h2 {
 	background-color: green;
 	color: white;
@@ -50,6 +54,11 @@ footer {
 	Class selectors can be used to be more specific when selecting elements and have a higher priority
 	than simple element selectors alone
 */
+
+#facebook-anchor-id {
+	background-color: blue;
+}
+
 ul.navigation a{
 	background-color: yellow;
 	color: green;
