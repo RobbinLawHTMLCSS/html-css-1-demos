@@ -13,7 +13,7 @@
 |L1 HTML Basics|Netlify/Moodle|Week 3|5|
 |L2 HTML Doc Structure|Netlify/Moodle|Week 4|5|
 |A1 HTML Basics/Doc Structure/Navigation|Netlify/Moodle|Week 5|15|
-|L3 CSS Basics|Netlify/Moodle|Week 6|5|
+|L3 CSS Basics|Netlify/Moodle|Week 7|5|
 |L4 Flex Box |Netlify/Moodle|Week 8|5|
 |A2 CSS Basics/Page Layout with Flex Box|Netlify/Moodle|Week 9|15|
 |L5 CSS Styling Text|Netlify/Moodle|Week 10|5|
@@ -31,8 +31,8 @@
 |3-S18|HTML Document Structure|HTML Document Structure|L1|
 |4-S25|Navigation|Navigation|L2|
 |5-O02|A1|A1|A1|
-|6-O09|CSS Basics|CSS Basics|L3|
-|7-O16|Flex Box|Flex Box||
+|6-O09|CSS Basics|CSS Basics||
+|7-O16|Flex Box|Flex Box|L3|
 |8-O23|Flex Box|Flex Box|L4|
 |9-O30|A2|A2|A2|
 |10-N06|Styling Text with CSS|Styling Text with CSS|L5|
