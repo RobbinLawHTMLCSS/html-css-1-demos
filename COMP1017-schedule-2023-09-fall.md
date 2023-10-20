@@ -32,7 +32,7 @@
 |4-S25|Navigation|Navigation|L2|
 |5-O02|A1|A1|A1|
 |6-O09|CSS Basics|CSS Basics||
-|7-O16|CSS Basics|Flex Box|L3|
+|7-O16|CSS Basics|CSS Basics|L3|
 |8-O23|Flex Box|Flex Box|L4|
 |9-O30|A2|A2|A2|
 |10-N06|Styling Text with CSS|Styling Text with CSS|L5|
