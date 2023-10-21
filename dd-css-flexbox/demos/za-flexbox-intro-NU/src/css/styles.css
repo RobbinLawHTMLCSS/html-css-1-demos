@@ -1,0 +1,29 @@
+/* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: white;
+	text-align: center;
+}
+
+.center-page-container {
+	background-color: lightgrey;
+	width: 480px;
+	margin: 0 auto;
+	font-size: 24px;
+	line-height: 2;
+}
+
+#div1-flex {
+	height: 200px;
+	display: flex;
+	justify-content: space-around;
+	/* justify-content: space-between; */
+	align-items: flex-end;
+	align-items: center;
+	/* gap: 20px; */
+}
+
+
