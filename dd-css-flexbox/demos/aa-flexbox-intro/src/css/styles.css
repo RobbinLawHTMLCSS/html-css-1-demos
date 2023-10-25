@@ -6,6 +6,7 @@ body {
 }
 
 .center-page-container {
+    background-color: lightblue;
     width: 960px;
     margin: 0 auto;
     font-size: 100%;
@@ -15,13 +16,14 @@ body {
 .flex-container {
     background-color: lightgrey;
     display: flex;
+    /* justify-content: center; */
     justify-content: space-between;
     /* justify-content: space-evenly; */
     /* justify-content: space-around; */
 }
 
 .flex-item {
-    /* flex: 1; */
+    flex: 1;
     height: 200px;
     border: 2px solid black;
     margin: 20px 20px 20px 0;
