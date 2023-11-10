@@ -30,6 +30,11 @@ header p {
 	padding-left: 50px;
 }
 
+main,
+footer {
+	text-align: center;
+}
+
 h2 {
 	color: #0b777b;
 	font-size: 48px;
@@ -39,16 +44,7 @@ h2 {
 h3 {
 	color: #238386;
 	font-size: 36px;
-}
-
-p {
-	color: #7f8c8c;
-	font-size: 16px;
-}
-
-main,
-footer {
-	text-align: center;
+	margin: 120px 0 15px 0;
 }
 
 /* The > selector here selects only images immediately inside of article. It will select the circular icon, and not the like button because the like button is one level deeper. */
@@ -58,9 +54,10 @@ main article>img {
 }
 
 main article>p {
-	margin: 25px 0 25px 90px;
-	width: 780px;
-	text-align: center;
+	color: #7f8c8c;
+	font-size: 16px;
+	margin: 25px 50px 25px 50px;
+	
 }
 
 main article footer {
@@ -82,9 +79,8 @@ main article footer p span {
 	color: #094244;
 }
 
-h3 {
-	margin: 120px 0 15px 0;
-}
+/* We do not need a flex container here 
+because the images are naturally inline */
 
 div.container>footer img {
 	margin-right: 15px;
