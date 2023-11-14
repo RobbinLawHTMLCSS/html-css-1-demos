@@ -1,0 +1,59 @@
+body {
+    /* default/base font styling goes here */
+    font-size: 100%;
+    font-family: 'Quicksand', sans-serif;
+    color: #211713;
+    background-color: #fff;
+    background-image: url(../img/tile-bg.png);
+    /* One of the keyword values top, left, bottom, right. If left or right are given here, then this defines X and the other given value defines Y. If top or bottom are given, then this defines Y and the other value defines X. */
+    background-position: bottom center;
+    background-repeat: no-repeat;
+     /* first value: width of the image, second value: height */
+    /* keywords: cover & contain */
+    background-size: contain;
+
+    /* background shorthand */
+    background: #fff url(../img/tile-bg.png) repeat;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+/* ************** typography ********************** */
+h1 {
+    font-weight: 700;
+    font-size: 44px;
+}
+
+/* *********************** header ******************* */
+
+header {
+    background: #fae3c5 url(../img/nav-bg.jpg) no-repeat;
+    background-size: cover;
+    padding: 41px 0 140px 542px;
+}
+
+/* to change the default (browser styling) color and underline of the anchor tag, you have to select the <a> directly */
+ul.menu a {
+    color: #211713;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 18px;
+    text-transform: uppercase;
+    /* to increase the clickable area, change the display type */
+    display: block;
+}
+
+/* the :hover class will style only that state (ie, when the mouse is hovering over the element) */
+ul.menu a:hover {
+    color: #9E734C;
+    margin-left: 8px;
+    text-decoration: underline;
+}
+
+/* While adding the font styles to the <a> tag, it's also common to add the spacing and sizing to the li element */
+ul.menu li {
+    line-height: 48px;
+}

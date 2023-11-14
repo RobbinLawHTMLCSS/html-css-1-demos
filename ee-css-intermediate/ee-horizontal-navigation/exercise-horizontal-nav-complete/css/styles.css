@@ -1,0 +1,52 @@
+body {
+    font-size: 100%;
+    font-family: 'Lato', sans-serif;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+h1 a {
+    color: #fafafa;
+    text-decoration: none;
+}
+
+header {
+    background-color: #28282B;
+    padding: 18px 12px;
+    display: flex;
+    gap: 160px;
+    /* alternatively, you can use justify-content to distribute the leftover space on the row */
+    /* https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-justify-content */
+    justify-content: space-between;
+}
+
+header ul {
+    display: flex;
+    gap: 23px;
+}
+
+ul.menu li {
+    line-height: 42px;
+}
+
+ul.menu a {
+    color: #fafafa;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+}
+
+ul.menu a:hover {
+    color: #A1A1AA;
+}
+
+ul.header-icons {
+    margin-top: 11px;
+}
