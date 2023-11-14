@@ -1,0 +1,42 @@
+body {
+    font-size: 100;
+    font-family: 'Archivo', sans-serif;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+/* *************** typography ************** */
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: 48px;
+    color: #F5F5F5;
+    text-align: right;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #76A10C;
+}
+
+/* ************** header ************** */
+header {
+    /* best practice is to give a background color first. If the image doesn't load you still want to be able to read the text */
+    background-color: #332c20;
+    /* the ../ brings us up one directory */
+    background-image: url('../img/banner-bg.jpg');
+    /* add spacing inside the element to see the whole image */
+    padding: 16px 52px 22px 30px;
+    margin-bottom: 50px;
+}
+
+header img {
+    margin-bottom: 288px;
+}
+
+/* students can finish off the layout for practice */

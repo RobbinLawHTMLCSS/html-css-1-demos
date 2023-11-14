@@ -1,0 +1,84 @@
+/*
+COLOUR PALETTE 
+
+paper white - #F0EFED; 
+navy grey -   #3E3E44;
+mid-grey -    #6e6e79;
+authors -     #84696F;
+*/
+
+body {
+	background-color: #F0EFED;
+	text-align: center;
+	color: #3E3E44;
+}
+ 
+.container {
+	margin:0 auto;
+	width:960px;
+	font-size: 100%;
+	line-height: 1.5;
+}
+
+/* TYPOGRAPHY */
+
+h1, h2, h3, h4 {
+	font-family: 'Libre Baskerville', serif;
+}
+
+h1 {
+	margin-top: 96px;
+	font-size: 72px;
+	font-weight: bold;
+}
+
+h2 {
+	margin-top: 96px;
+	font-size: 36px;
+}
+
+h3 {
+	color: #84696F;
+	font-size: 24px;
+	padding-bottom: 24px;
+}
+
+h4 {
+	margin-bottom: 24px;
+}
+
+p {
+	font-family: 'Libre Franklin', sans-serif;
+	text-align: left;
+	font-size: 16px;
+	margin-bottom: 12px;
+}
+
+p.byline {
+	font-family: 'Libre Baskerville', serif;
+	font-size: 30px;
+	text-align: center;
+	color: #6e6e79;
+}
+
+p.intro {
+	font-style: italic;
+	font-size: 18px;
+	margin: 48px 0;
+}
+
+footer p {
+	font-style: italic;
+	text-align: center;
+}
+
+/* LAYOUT */
+
+img {
+	margin: 24px 0;
+}
+
+main {
+	margin-bottom: 96px;
+}
+

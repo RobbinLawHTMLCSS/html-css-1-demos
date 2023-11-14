@@ -1,0 +1,36 @@
+body {
+    font-size: 100%;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.flex-container {
+    display: flex;
+}
+
+/* *********** header **************** */
+
+header {
+    background-color: #92BEBF;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+header div {
+    padding: 90px 0 0 50px;
+}
+
+section {
+    background-color: #FFFBEB;
+    padding: 60px 150px 60px 30px;
+    display: flex;
+    gap: 24px;
+    margin-bottom: 43px;
+}
+
+section:last-of-type {
+    background-color: #F0FDFA;
+}

@@ -1,0 +1,63 @@
+This exercise will assess your understanding of:
+1. how to style text using CSS;
+2. implementing custom fonts via Google Fonts;
+3. how to get colors, measurements, and font sizes from a Photo-Shop document (.psd).
+Using the 960px center page framework that we developed together in class, you will build a website from the provided .psd wire-frame.
+
+Build Steps
+
+Setup
+1. Download all of the provided files. Open your Photo-Shop document (wire-frame.psd).
+
+Typography
+2. Find and implement the required Google Fonts, including the appropriate weights and styles. These include:
+    Libre Baskerville: 400 weight (regular); 700 weight (bold).
+    Libre Franklin: 400 weight (regular); italic.
+NOTE: This has also already been done. You are given all of the HTML which includes
+the code to download the proper fonts from google fonts.
+
+
+Set the font-family property for all of the typographic elements on your page.
+
+Note: Libre Baskerville is a serif font; Libre Franklin is a sans-serif font.
+
+
+3. Using the Eyedropper Tool [ I ] and the Color Picker in Photo-Shop, determine the background color for the body element. This has been done and the color is #F0EFED
+
+
+4. Using the Type Tool [ T ] in Photo-Shop, determine the font size for each typographic element.
+
+
+5. Using the Type Tool [ T ] in Photo-Shop, determine the font color for each typographic element. This has been done and the results are in the styles.css file
+
+
+6. Set the font-style property for any typographic elements that need to be italic.
+
+
+7. Set the font-weight property for any typographic elements that need to be bold.
+
+
+8. On your body, center all of your typographic and inline elements by setting the text-align property. You will also need to do this for your .byline class and your footer.
+
+
+9. Set the text-align property for all of your paragraph elements to left.
+
+10. Using your Layers Panel [ Window > Layers ], find all of the icons that you need. Using the most appropriate file format, save/export them to your img folder.
+Hint: your icons should have transparent backgrounds so they should be .png.
+NOTE: This has already been done. All the icons are in the img folder.
+
+Layout
+
+11. Using CSS, apply the following distances:
+
+
+* 96 pixels from the top of the page (browser window / viewport) to your first-level heading;
+* 96 pixels between any element and the top of your second-level headings;
+* 24 pixels of padding between any element and the bottom of your third-level headings;
+* 24 pixels of space between any element and the bottom of your fourth-level headings;
+* 12 pixels of space after the end of each paragraph;
+* 48 pixels of space between the top and bottom of your .intro paragraph;
+* 24 pixels of space between the top and bottom of all images; and
+* 96 pixels of space between the main and footer elements.
+
+You can double-check these distances in Photo-Shop using the Ruler Tool [ I ].

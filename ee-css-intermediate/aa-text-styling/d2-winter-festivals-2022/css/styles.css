@@ -1,0 +1,60 @@
+body {
+	background-color: #fafafa;
+}
+ 
+.container {
+	margin: 0 auto;
+	width: 960px;
+	font-size: 100%;
+	line-height: 1.5;
+	text-align: center;
+	/* Default font-family is Times New Roman */
+	/* font-family: Times New Roman, Times, serif; */
+	/* Another font that is loaded on the machine */
+	/* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+	/* A font from google-fonts not loaded on the machine */
+	font-family: Lato;
+}
+
+/* Typography */
+h1 {
+	font-size: 96px;
+	letter-spacing: -1px;
+}
+
+h2 {
+	font-size: 36px;
+	color: #3d4245;
+}
+
+p {
+	font-size: 20px;
+	color: #9b9d9c;
+}
+
+.page-header p {
+	font-size: 48px;
+}
+
+/* Layout */
+.page-header {
+	margin-top: 72px;
+	margin-bottom: 120px;
+}
+
+section {
+	margin-bottom: 196px;
+	padding: 0 24px;
+}
+
+section p {
+	margin-bottom: 24px;
+}
+
+section header img {
+	width: 100px;
+}
+
+section footer img {
+	margin: 0 12px;
+}
