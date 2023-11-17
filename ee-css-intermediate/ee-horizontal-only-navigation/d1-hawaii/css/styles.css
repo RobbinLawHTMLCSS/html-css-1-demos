@@ -1,3 +1,6 @@
+* {
+    box-sizing: border-box;
+}
 body {
     font-size: 100%;
     font-family: 'Source Sans 3', sans-serif;
@@ -33,7 +36,7 @@ header {
     background-color: #028568;
     padding: 9px 9px 0 9px;
     display: flex;
-    gap: 231px;
+    gap: 230px;
 }
 
 ul.menu-links {
@@ -42,7 +45,7 @@ ul.menu-links {
 }
 
 ul.menu-links li {
-    line-height: 47px;
+    line-height: 48px;
 }
 
 ul.menu-links a {
@@ -83,9 +86,9 @@ section p {
 }
 
 aside {
-    width: 256px;
+    width: 320px;
     padding: 79px 33px 135px 31px;
-    background-color: rgba(171, 221, 213, 0.8);
+    background-color: rgba(171, 221, 213, 0.5);
 }
 
 aside a {
