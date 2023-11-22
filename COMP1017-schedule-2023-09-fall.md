@@ -28,16 +28,16 @@
 |:-:|:-:|:-:|:-:|
 |1-S04|Environment-Setup|Environment-Setup|
 |2-S11|HTML Basics|HTML Basics||
-|3-S18|HTML Document Structure|HTML Document Structure|L1|
-|4-S25|Navigation|Navigation|L2|
-|5-O02|A1|A1|A1|
-|6-O09|CSS Basics|CSS Basics||
-|7-O16|CSS Basics|CSS Basics|L3|
-|8-O23|Flex Box|Flex Box|L4|
-|9-O30|A2|A2|A2|
-|10-N06|Styling Text with CSS|Styling Text with CSS|L5|
-|11-N13|Styling Menus with CSS|Styling Menus with CSS||
-|12-N20|Styling Menus with CSS|Styling Menus with CSS|L6|
-|13-N27|A3|A3|A3|
-|14-D04|Forms|Forms||
-|15-D11|A4|A4|A4|
+|3-S18|HTML Document Structure|HTML Document Structure||
+|4-S25|Navigation|Navigation|L1|
+|5-O02|Navigation|Navigation|L2|
+|6-O09|CSS Basics|CSS Basics|A1|
+|7-O16|CSS Basics|CSS Basics||
+|8-O23|Flex Box|Flex Box|L3|
+|9-O30|Flex Box|Flex Box|L4|
+|10-N06|Styling Text with CSS|Styling Text with CSS|A2|
+|11-N13|Styling Menus with CSS|Styling Menus with CSS|L5|
+|12-N20|Styling content with CSS|Styling content with CSS|L6|
+|13-N27|Styling content with CSS|Styling content with CSS||
+|14-D04|Forms|Forms|A3|
+|15-D11|Forms|Forms|A4|
