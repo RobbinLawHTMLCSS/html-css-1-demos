@@ -1,3 +1,4 @@
+/* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
 * {
 	box-sizing: border-box;
 }
@@ -24,51 +25,34 @@ main div {
     height: 200px;
     border: 2px solid black;
     margin: 10px 0px 0px 10px;
-}
-
-div.red-paint {
-    background-color: red;
-}
-
-div.blue-paint {
-    background-color: blue;
-}
-
-div.yellow-paint {
-    background-color: yellow;
-}
-
-div.orange-paint {
-    background-color: orange;
-}
-
-div.grey-paint {
     background-color: grey;
 }
 
-/* Width Math for red and blue boxes on first row
+/* Width Math for two boxes on first row
 Total - margin = leftover
 960 - (3 * 10)
 960 - 30 = 930
 	930/2 = 465 */
-div.red-paint, 
-div.blue-paint {
+div.row-one {
     width: 465px;
 }
 
-/* Width Math for yellow box on second row
+/* Width Math for box on second row
 Total - margin = leftover
 960 - (2 * 10)
 960 - 20 = 940
 	940/1 = 940 */
-div.yellow-paint {
+div.row-two {
     width: 940px;
-    /* margin-bottom: 10px; */
 }
 
-div.orange-paint, 
-div.grey-paint {
-    width: 465px;
+/* Width Math for three boxes on third row
+Total - margin = leftover
+960 - (4 * 10)
+960 - 40 = 920
+	920/3 = 306.66 */
+div.row-three {
+    width: 306.66px;
     margin-bottom: 10px;
 }
 
