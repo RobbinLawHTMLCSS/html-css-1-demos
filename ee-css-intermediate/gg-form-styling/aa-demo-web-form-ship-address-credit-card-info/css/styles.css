@@ -30,7 +30,7 @@ h4 {
 h4 {
     font-size: 21px;
     text-transform: none;
-    color: #8B4448;
+    color: #aad5b8;
     margin-bottom: 12px;
 }
 
@@ -64,14 +64,14 @@ input.full-w {
 }
 
 input[type=submit] {
-    background-color: #AAD5D3;
+    background-color: #aad5b8;
     width: 630px;
     font-weight: 700;
     border-radius: 4px;
 }
 
 input[type=submit]:hover {
-    background-color: #91B4B2;
+    background-color: #91b4a7;
     color: #fff;
     cursor: pointer;
 }
