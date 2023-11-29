@@ -1,3 +1,5 @@
+/* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+
 * {
     box-sizing: border-box;
 }
@@ -36,7 +38,6 @@ h4 {
 
 .payment {
     width: 630px;
-    row-gap: 24px;
     margin: 30px 0 30px 0;
 }
 
