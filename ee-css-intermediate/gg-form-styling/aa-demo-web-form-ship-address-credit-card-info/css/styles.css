@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #fff;
+    color: #111827;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Domine', serif;
+    text-transform: uppercase;
+}
+
+h4 {
+    font-size: 21px;
+    text-transform: none;
+    color: #8B4448;
+    margin-bottom: 12px;
+}
+
+.payment {
+    width: 630px;
+    row-gap: 24px;
+    margin-bottom: 75px;
+}
+
+.payment fieldset {
+    border: none;
+    margin: 0 0 48px 0;
+    padding: 0;
+}
+
+.payment label {
+    display: block;
+    margin-bottom: 6px;
+}
+
+.payment input {
+    line-height: 40px;
+    background-color: #F9FAFB;
+    border: 1px solid #D1D5DB;
+    padding: 0 0 0 8px ;
+    width: 300px;
+}
+
+input.full-w {
+    width: 630px;
+}
+
+input[type=submit] {
+    background-color: #AAD5D3;
+    width: 630px;
+    font-weight: 700;
+    border-radius: 4px;
+}
+
+input[type=submit]:hover {
+    background-color: #91B4B2;
+    color: #fff;
+    cursor: pointer;
+}
