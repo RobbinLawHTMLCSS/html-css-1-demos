@@ -48,7 +48,7 @@
 
 **Download from Extensions Market Place**
 
-- Markdown All in One by Yu Zhang - preview .md files
+- Markdown All in One by Yu Zhang - preview .md files DEPRECATED
 - PDF Preview by Analytic Signal Limited
 - Material Icon Theme by Philipp Kief - Icon Theme
 - One Dark Pro by binaryify - Color Theme
