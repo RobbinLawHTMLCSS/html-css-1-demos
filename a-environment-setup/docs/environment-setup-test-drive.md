@@ -4,12 +4,6 @@
 
 - Create the following folder in the C drive:
   - C:\COMP1017
----
-
-## Create a GitHub Account
-
-- [GitHub Website](https://github.com)
-- Go to GitHub and create an account. Choose an appropriate username that has your first and last name in it. Remember the username that you create the account with as well as the email that you use. You will need this information to complete the setup.
 
 ---
 
@@ -19,15 +13,15 @@
 
 - Download the latest version. Allow all the defaults on download. The path should be updated automatically, so that `git` is available from any directory.
 - Open a PowerShell or CMD terminal. In the shell run `git --version` to make sure that git is installed and accessible from this directory. Note that it is two minus bars before version. If a version number is not returned, the path must be set so that `git` is available from any directory. To set the path, in the search area at the bottom of the windows task bar type `env` and select `Edit Environment Variables for your Account`. Then edit the `PATH` and add new `C:\Program Files\Git\cmd`. You could add this to the system environments alternatively. Now you can run the `git` command from a terminal anywhere.
-  
-----
+
+---
 
 ## Download Visual Studio Code
 
 - [Visual Studio Code Website](https://code.visualstudio.com)
 - From VS Code install the extension `live server`.
 
-----
+---
 
 ## Clone My Demos to Your Machine
 
@@ -39,12 +33,19 @@
 
 ---
 
+## Test Drive Tool Chain
+
+- Test drive our tools by running the code in the `src` folder with `live server`.
+
+## Create a GitHub Account
+
+- [GitHub Website](https://github.com)
+- Go to GitHub and create an account. Choose an appropriate username that has your first and last name in it. Remember the username that you create the account with as well as the email that you use. You will need this information to complete the setup.
+
+---
+
 ## Create a Netlify Account
 
 - [Netlify Website](https://netlify.com)
 
-----
-
-## Test Drive Tool Chain
-
-- Test drive our tools by running the code in the `src` folder with `live server`.
+---
