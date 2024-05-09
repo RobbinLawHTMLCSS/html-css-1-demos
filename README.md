@@ -37,6 +37,8 @@
 
 - Test drive our tools by running the code in the `src` folder with `live server`.
 
+---
+
 ## Create a GitHub Account
 
 - [GitHub Website](https://github.com)
