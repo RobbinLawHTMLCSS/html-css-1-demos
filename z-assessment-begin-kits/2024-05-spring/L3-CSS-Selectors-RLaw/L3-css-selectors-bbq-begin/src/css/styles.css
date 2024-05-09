@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+}
+
+body,
+h1,
+h2,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: verdana, sans-serif;
+    color: #111111;
+}
+
+header {
+    padding: 48px;
+    color: #696969;
+    border-bottom: 2px solid #dedede;
+}
+
+h1 {
+    /* TODO: add code in here to adjust h1 */
+}
+
+h2 {
+    /* TODO: add code in here to adjust h2 */
+}
+
+section {
+    font-family: Arial;
+    width: 800px;
+    margin: 48px;
+}
+
+footer {
+    padding: 48px;
+    background-color: #dedede;
+}
+
+.menu-items {
+    /* TODO: adjust some of these properties as needed */
+    font-family: courier;
+    list-style-type: none;
+    width: 700px;
+    padding: 24px;
+    border-left: 5px solid red;
+    background-color: #f4f4f4;
+    margin-left: 24px;
+}
+
+.special {
+    /* TODO: add code here as required */
+}
+
+.daily-special {
+    /* TODO: add code here as required */
+}

@@ -1,0 +1,30 @@
+/* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+
+/* Put code where necessary to make the web page
+   look the same as the included screen shot.
+	 Margin and padding both to be 14 px. */
+
+body {
+	background-color: #f2f2f2;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	color: #454545;
+}
+
+.center-page-container {
+	background-color: lightgrey;
+	width: 960px;
+	margin: 24px auto 24px auto;
+	text-align: center;
+}
+
+.flex-container {
+	
+}
+
+.flex-item {
+	
+}
+
+.first-item {
+	
+}

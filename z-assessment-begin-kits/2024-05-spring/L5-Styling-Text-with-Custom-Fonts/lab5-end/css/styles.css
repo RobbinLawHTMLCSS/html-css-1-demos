@@ -1,0 +1,59 @@
+body {
+    font-family: 'Lora', serif;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.flex-container {
+    display: flex;
+    gap: 15px;
+}
+
+h1,
+h2,
+header p {
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+    font-size: 45px;
+    color: #fff;
+}
+
+h2 {
+    font-size: 36px;
+    color: #01B3B8;
+}
+
+/* *********** header **************** */
+
+header {
+    background-color: #92BEBF;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+header div {
+    padding: 90px 0 0 50px;
+}
+
+header p {
+    font-size: 24px;
+    color: #ECE9E9;
+}
+
+section {
+    background-color: #FFFBEB;
+    padding: 60px 150px 60px 30px;
+    display: flex;
+    gap: 24px;
+    margin-bottom: 43px;
+}
+
+section:last-of-type {
+    background-color: #F0FDFA;
+}
