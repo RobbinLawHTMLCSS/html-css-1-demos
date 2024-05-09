@@ -39,13 +39,6 @@
 
 ---
 
-## Create a GitHub Account
-
-- [GitHub Website](https://github.com)
-- Go to GitHub and create an account. Choose an appropriate username that has your first and last name in it. Remember the username that you create the account with as well as the email that you use. You will need this information to complete the setup.
-
----
-
 ## Create a Netlify Account
 
 - [Netlify Website](https://netlify.com)
