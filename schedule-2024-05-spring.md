@@ -9,7 +9,7 @@ title: Schedule 2024 Spring
 
 |Week|Assessment|Day1-Monday|Day2-Thursday|
 |:-:|:-:|:-:|:-:|
-|1-May06||NO-CLASS|Environment-Setup|
+|1-May06||Missed Class will Make it up|Environment-Setup|
 |2-May13||HTML Basics|HTML Basics|
 |3-May20||NO-CLASS|HTML Document Structure|
 |4-May27|L1-HTML Basics 5%|Navigation|Navigation|
