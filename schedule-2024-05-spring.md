@@ -25,5 +25,4 @@ title: Schedule 2024 Spring
 |14-Aug05|A3-Styling content with CSS 20%|NO-CLASS|Forms|
 |15-Aug12|A4-Forms 20%|Forms|Forms|
 
-
 #### [Course Home](./index.md)
