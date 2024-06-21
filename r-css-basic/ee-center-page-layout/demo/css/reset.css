@@ -71,5 +71,5 @@ table {
  * Include this rule to trigger hasLayout and contain floats.
  */
 .clearfix {
-    *zoom: 1;
+    zoom: 1;
 }
