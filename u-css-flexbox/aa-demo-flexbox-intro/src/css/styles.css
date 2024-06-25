@@ -17,12 +17,18 @@ body {
     background-color: lightgrey;
     display: flex;
     /* justify-content: center; */
-    justify-content: space-between;
+    /* justify-content: space-between; */
     /* justify-content: space-evenly; */
     /* justify-content: space-around; */
 }
 
 .flex-item {
+    width: 100px;
+    /* Without the flex: 1; the div size
+       will be the size of the div's content.
+       With the flex: 1; the div size
+       will be calculated to honour the margin
+       and fill the parents space. */
     flex: 1;
     height: 200px;
     border: 2px solid black;
