@@ -17,11 +17,11 @@ title: Schedule 2024 Spring
 |6-Jun10|A1-HTML Basics/Doc Structure/Navigation 15%|CSS Basics|CSS Basics|
 |7-Jun17||CSS Basics|CSS Basics|
 |8-Jun24|L3-CSS Basics 5%|Flex Box|Flex Box|
-|9-Jul01|L4-Flex Box 5%|NO-CLASS|Flex Box|
-|10-Jul08|A2-CSS Basics/Page Layout with Flex Box 15%|Styling Text with CSS|Styling Text with CSS|
-|11-Jul15|L5-CSS Styling Text 5%|Styling Menus with CSS|Styling Menus with CSS|
-|12-Jul22|L6-CSS Styling Menus 5%|Styling content with CSS|Styling content with CSS|
-|13-Jul29||Styling content with CSS|Styling content with CSS|
+|9-Jul01||NO-CLASS|Flex Box|
+|10-Jul08|L4-Flex Box 5%|Styling Text with CSS|Styling Text with CSS|
+|11-Jul15|A2-CSS Basics/Page Layout with Flex Box 15%|Styling Menus with CSS|Styling Menus with CSS|
+|12-Jul22|L5-CSS Styling Text 5%|Styling content with CSS|Styling content with CSS|
+|13-Jul29|L6-CSS Styling Menus 5%|Styling content with CSS|Styling content with CSS|
 |14-Aug05|A3-Styling content with CSS 20%|NO-CLASS|Forms|
 |15-Aug12|A4-Forms 20%|Forms|Forms|
 
