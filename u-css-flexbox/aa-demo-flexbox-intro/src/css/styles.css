@@ -23,7 +23,7 @@ body {
 }
 
 .flex-item {
-    width: 100px;
+    /* width: 100px; */
     /* Without the flex: 1; the div size
        will be the size of the div's content.
        With the flex: 1; the div size
