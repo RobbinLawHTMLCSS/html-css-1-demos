@@ -7,6 +7,7 @@ body {
     /* Style the default / paragraph base text on the body element so that it inherits down to every element (anchor tags, buttons, form elements, etc) */
 }
 
+/* Center Page Layout */
 .container {
     width: 960px;
     margin: 0 auto;
