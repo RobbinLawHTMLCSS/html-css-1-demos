@@ -33,7 +33,7 @@ header {
     /* background-repeat: no-repeat; */
     /* add spacing inside the element to see the whole image */
     padding: 16px 52px 22px 30px;
-    margin-bottom: 50px;
+    margin: 50px 0 50px;
 }
 
 header img {

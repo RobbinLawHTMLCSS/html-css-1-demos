@@ -10,12 +10,19 @@ body {
 }
 
 header {
-	background-color: rgba(11, 119, 124, 0.1);
-	background-repeat: no-repeat;
+	background-color: rgba(11, 119, 124, 0.);
 	background-image: url('../img/header-transparent-no-text.png');
 	/* background-image: url('../img/header-transparent.png'); */
-	padding: 100px 0 0 40px;
+	/* If we make the height of the header the same height as
+		the image, then background-repeat has NO affect,
+		but if we make the height 1000px then
+		background-repeat: repeat will repeat the image */
 	height: 350px;
+	background-repeat: no-repeat;
+	/* height: 1000px; */
+	/* background-repeat: repeat; */
+	padding: 100px 0 0 40px;
+	
 }
 
 h1 {
