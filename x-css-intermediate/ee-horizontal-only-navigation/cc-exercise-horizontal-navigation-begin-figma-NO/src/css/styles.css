@@ -12,32 +12,30 @@ body {
     text-align: center;
 }
 
-/* Nav Element */
+/* Put your code here to complete the web
+    page to look like the included screen shot
+ */
 
 .site-navigation {
-    height: 155px;
+    
 }
 
 .site-navigation img {
-    margin-top: 16px;
+    
 }
 
 .site-navigation ul {
-    width: 490px;
-    margin: 0 auto;
-    display: flex;
+    
 }
 
 .site-navigation li {
-    margin: 8px 25px;
+    
 }
 
 .site-navigation a {
-    color: white;
-    text-decoration: none;
+    
 }
 
 .site-navigation a:hover {
-    padding-bottom: 2px;
-    border-bottom: 1px solid white;
+    
 }
