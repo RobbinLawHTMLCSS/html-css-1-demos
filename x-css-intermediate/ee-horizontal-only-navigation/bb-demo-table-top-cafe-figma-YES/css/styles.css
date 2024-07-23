@@ -40,7 +40,7 @@ ul.menu a {
     color: #fafafa;
     text-decoration: none;
     text-transform: uppercase;
-    display: block;
+    /* display: block; */
 }
 
 ul.menu a:hover {

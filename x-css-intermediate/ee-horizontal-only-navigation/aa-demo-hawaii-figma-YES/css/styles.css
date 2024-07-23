@@ -52,7 +52,7 @@ ul.menu-links a {
     color: #fff;
     text-decoration: none;
     font-size: 18px;
-    display: block;
+    /* display: block; */
     padding: 0 5px;
 }
 
